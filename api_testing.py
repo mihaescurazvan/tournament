@@ -5,7 +5,7 @@ base_url = 'http://116.202.111.229:8000'
 api_key = 'api-key'
 
 headers = {
-    'x-api-key': 'lnzYdcdRr8RiBniVUAXPZlidQAnhDggd'
+    'x-api-key': ''
 }
 
 
