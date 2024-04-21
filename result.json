@@ -1,0 +1,8444 @@
+{
+	"ATVs Dealers & Services": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.65237957239151
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5028948783874512
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.5330579280853271
+	  ]
+	],
+	"Abortion Clinics": [
+	  [
+		"Ambulatory Health Care Services",
+		0.38698917627334595
+	  ],
+	  [
+		"Hospitals",
+		0.40220245718955994
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.31997063755989075
+	  ]
+	],
+	"Accounting & Bookkeeping Services": [
+	  [
+		"Administrative and Support Services",
+		0.5036222338676453
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.4484240710735321
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.4565345048904419
+	  ]
+	],
+	"Acupuncture clinic": [
+	  [
+		"Ambulatory Health Care Services",
+		0.3559977412223816
+	  ],
+	  [
+		"Hospitals",
+		0.2752559185028076
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.2886372208595276
+	  ]
+	],
+	"Adhesives & Sealants": [
+	  [
+		"Repair and Maintenance",
+		0.33298999071121216
+	  ],
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.39204519987106323
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.3418881595134735
+	  ]
+	],
+	"Adoption Agencies & Foster Care": [
+	  [
+		"Administration of Human Resource Programs",
+		0.3622340261936188
+	  ],
+	  [
+		"Social Assistance",
+		0.3666382431983948
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.40284937620162964
+	  ]
+	],
+	"Adult & Porn": [
+	  [
+		"Personal and Laundry Services",
+		0.4965576231479645
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5347875952720642
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.5271811485290527
+	  ]
+	],
+	"Adult Education Schools": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.4238896071910858
+	  ],
+	  [
+		"Educational Services",
+		0.5575088858604431
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.3637315630912781
+	  ]
+	],
+	"Adult Entertainment Clubs": [
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.39440181851387024
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4580766260623932
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5075508952140808
+	  ]
+	],
+	"Adult Escort Services": [
+	  [
+		"Administrative and Support Services",
+		0.3836609721183777
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.3894616365432739
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4109906256198883
+	  ]
+	],
+	"Aerospace and Defence": [
+	  [
+		"Transportation Equipment Manufacturing",
+		0.5103414058685303
+	  ],
+	  [
+		"Space Research and Technology",
+		0.6104921102523804
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.5075316429138184
+	  ]
+	],
+	"Agriculture & Farm Associations": [
+	  [
+		"Crop Production",
+		0.5728720426559448
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.5293663144111633
+	  ],
+	  [
+		"Support Activities for Agriculture and Forestry",
+		0.5023014545440674
+	  ]
+	],
+	"Aircraft Parts & Services": [
+	  [
+		"Repair and Maintenance",
+		0.6490479111671448
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.6465789675712585
+	  ],
+	  [
+		"Air Transportation",
+		0.5920403599739075
+	  ]
+	],
+	"Airline Companies": [
+	  [
+		"Air Transportation",
+		0.6673218011856079
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.5278217792510986
+	  ],
+	  [
+		"Transit and Ground Passenger Transportation",
+		0.5212156772613525
+	  ]
+	],
+	"Alarms, Surveillance & Security Systems": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.39301422238349915
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.3844885528087616
+	  ],
+	  [
+		"Telecommunications",
+		0.41424551606178284
+	  ]
+	],
+	"Allergists": [
+	  [
+		"Ambulatory Health Care Services",
+		0.23520848155021667
+	  ],
+	  [
+		"Hospitals",
+		0.2422119379043579
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.33607861399650574
+	  ]
+	],
+	"Alternative Therapy": [
+	  [
+		"Ambulatory Health Care Services",
+		0.35753336548805237
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.30543825030326843
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.2862493693828583
+	  ]
+	],
+	"Aluminum Processing & Products": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.6131555438041687
+	  ],
+	  [
+		"Chemical Manufacturing",
+		0.5979582071304321
+	  ],
+	  [
+		"Primary Metal Manufacturing",
+		0.6302180290222168
+	  ]
+	],
+	"Ambulances & Rescue Squads": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.30148789286613464
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.280902624130249
+	  ],
+	  [
+		"Hospitals",
+		0.3476199507713318
+	  ]
+	],
+	"Animal Feed": [
+	  [
+		"Crop Production",
+		0.37946969270706177
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.5273886322975159
+	  ],
+	  [
+		"Food Manufacturing",
+		0.39619356393814087
+	  ]
+	],
+	"Animal Preservation & Wildlife Control": [
+	  [
+		"Administration of Environmental Quality Programs",
+		0.4662224054336548
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.4533763825893402
+	  ],
+	  [
+		"Fishing, Hunting and Trapping",
+		0.39449891448020935
+	  ]
+	],
+	"Animal Shelters": [
+	  [
+		"Accommodation",
+		0.35722246766090393
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.35277795791625977
+	  ],
+	  [
+		"Social Assistance",
+		0.361537903547287
+	  ]
+	],
+	"Animal Training": [
+	  [
+		"Educational Services",
+		0.34755536913871765
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.4132707118988037
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.24873323738574982
+	  ]
+	],
+	"Antique Shops": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.4371505677700043
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.5152475237846375
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.43985623121261597
+	  ]
+	],
+	"Apparel Publications": [
+	  [
+		"Printing and Related Support Activities",
+		0.5297976732254028
+	  ],
+	  [
+		"Apparel Manufacturing",
+		0.5737645030021667
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.5313031077384949
+	  ]
+	],
+	"Appliance Repair & Maintenance": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5104678869247437
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.6304768323898315
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.45495370030403137
+	  ]
+	],
+	"Appliance Stores": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.6079805493354797
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.5477088093757629
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5770878791809082
+	  ]
+	],
+	"Aquarium": [
+	  [
+		"Water Transportation",
+		0.38391029834747314
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.453376829624176
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.5132563710212708
+	  ]
+	],
+	"Arcades & Amusement Parks": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.4095534384250641
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4886202812194824
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.6564589142799377
+	  ]
+	],
+	"Architects & Architectural Services": [
+	  [
+		"Construction of Buildings",
+		0.646583616733551
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5414178967475891
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.5197144150733948
+	  ]
+	],
+	"Art & Music Publishers": [
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.490865558385849
+	  ],
+	  [
+		"Publishing Industries",
+		0.6492704749107361
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.5257985591888428
+	  ]
+	],
+	"Art Galleries": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.3340311348438263
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.3625188171863556
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.5706325769424438
+	  ]
+	],
+	"Asian Restaurants": [
+	  [
+		"Accommodation",
+		0.29471147060394287
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.32420670986175537
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4661496579647064
+	  ]
+	],
+	"Asphalt & Paving Products": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5400019288063049
+	  ],
+	  [
+		"Nonmetallic Mineral Product Manufacturing",
+		0.5457744598388672
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.5135318636894226
+	  ]
+	],
+	"Asphalt & Paving Services": [
+	  [
+		"Specialty Trade Contractors",
+		0.4850567579269409
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5500848293304443
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.45816758275032043
+	  ]
+	],
+	"Associations": [
+	  [
+		"Administrative and Support Services",
+		0.4779563546180725
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.44091933965682983
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.6288818717002869
+	  ]
+	],
+	"Audiology Clinics": [
+	  [
+		"Ambulatory Health Care Services",
+		0.38964641094207764
+	  ],
+	  [
+		"Hospitals",
+		0.3578324317932129
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.3149704039096832
+	  ]
+	],
+	"Auto Body Shops": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.5945678353309631
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.5561463236808777
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.42780354619026184
+	  ]
+	],
+	"Auto Dent Removal Service": [
+	  [
+		"Transportation Equipment Manufacturing",
+		0.2458486557006836
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.32783380150794983
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.33427849411964417
+	  ]
+	],
+	"Auto Electrical Equipment": [
+	  [
+		"Repair and Maintenance",
+		0.5057975053787231
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.6202089786529541
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.5289041996002197
+	  ]
+	],
+	"Auto Glass Stores": [
+	  [
+		"Repair and Maintenance",
+		0.439798504114151
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.36300691962242126
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.48067402839660645
+	  ]
+	],
+	"Auto Insurance Agency": [
+	  [
+		"Insurance Carriers and Related Activities",
+		0.5382283926010132
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.40246134996414185
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.39118027687072754
+	  ]
+	],
+	"Auto Parts Manufacturers": [
+	  [
+		"Machinery Manufacturing",
+		0.5397019386291504
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.5584353804588318
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.6832074522972107
+	  ]
+	],
+	"Auto Parts Store": [
+	  [
+		"Gasoline Stations and Fuel Dealers",
+		0.5046385526657104
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4529430866241455
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.6753877401351929
+	  ]
+	],
+	"Auto Restoration Service": [
+	  [
+		"Repair and Maintenance",
+		0.5213804244995117
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.46280479431152344
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.3906046450138092
+	  ]
+	],
+	"Auto Services": [
+	  [
+		"Repair and Maintenance",
+		0.6337614059448242
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.6194465160369873
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.589397668838501
+	  ]
+	],
+	"Automobile Dealers & Manufacturers": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.5861823558807373
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.7810629606246948
+	  ],
+	  [
+		"Gasoline Stations and Fuel Dealers",
+		0.5923573970794678
+	  ]
+	],
+	"Automotive Associations": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.4895116686820984
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.47029611468315125
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.5703041553497314
+	  ]
+	],
+	"Automotive Publications": [
+	  [
+		"Publishing Industries",
+		0.5016986727714539
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.43942034244537354
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.48938706517219543
+	  ]
+	],
+	"Awards & Trophies & Plaques": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.3829100430011749
+	  ],
+	  [
+		"Miscellaneous Manufacturing",
+		0.4163379371166229
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.4047325551509857
+	  ]
+	],
+	"Bail Bonds": [
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.3125879466533661
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.28959229588508606
+	  ],
+	  [
+		"Monetary Authorities-Central Bank",
+		0.3197654187679291
+	  ]
+	],
+	"Bakeries & Desserts": [
+	  [
+		"Food Services and Drinking Places",
+		0.5562218427658081
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.5910260081291199
+	  ],
+	  [
+		"Food Manufacturing",
+		0.5637349486351013
+	  ]
+	],
+	"Bankruptcy Attorneys": [
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.3361186683177948
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.32315099239349365
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.32546430826187134
+	  ]
+	],
+	"Banks & ATMs": [
+	  [
+		"Monetary Authorities-Central Bank",
+		0.4307791590690613
+	  ],
+	  [
+		"Credit Intermediation and Related Activities",
+		0.5308607816696167
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.40929555892944336
+	  ]
+	],
+	"Barbecue Restaurants": [
+	  [
+		"Accommodation",
+		0.29513034224510193
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.26350927352905273
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.42389166355133057
+	  ]
+	],
+	"Barber Shops": [
+	  [
+		"Health and Personal Care Retailers",
+		0.32927876710891724
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.3142811954021454
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3705499768257141
+	  ]
+	],
+	"Bartending Schools": [
+	  [
+		"Educational Services",
+		0.360486775636673
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3756240904331207
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4750724732875824
+	  ]
+	],
+	"Basketball Club": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.22206658124923706
+	  ],
+	  [
+		"Accommodation",
+		0.22172892093658447
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.22520072758197784
+	  ]
+	],
+	"Bath Refinishing & Remodeling": [
+	  [
+		"Repair and Maintenance",
+		0.35100239515304565
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3346988558769226
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.3053421080112457
+	  ]
+	],
+	"Bathroom Furniture & Equipment": [
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.4997684061527252
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4636300802230835
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.495932400226593
+	  ]
+	],
+	"Batteries": [
+	  [
+		"Warehousing and Storage",
+		0.2825302183628082
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.4297427237033844
+	  ],
+	  [
+		"Gasoline Stations and Fuel Dealers",
+		0.25594982504844666
+	  ]
+	],
+	"Bearings Manufacturing": [
+	  [
+		"Transportation Equipment Manufacturing",
+		0.48623842000961304
+	  ],
+	  [
+		"Miscellaneous Manufacturing",
+		0.4851871430873871
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.5597184300422668
+	  ]
+	],
+	"Beauty Publications": [
+	  [
+		"Health and Personal Care Retailers",
+		0.35101795196533203
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.3665628433227539
+	  ],
+	  [
+		"Publishing Industries",
+		0.38115018606185913
+	  ]
+	],
+	"Beauty Salons": [
+	  [
+		"Food Services and Drinking Places",
+		0.3319818675518036
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.37407252192497253
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.3421918749809265
+	  ]
+	],
+	"Beauty Salons - Equipment & Supplies": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.47667166590690613
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.46682125329971313
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4713200628757477
+	  ]
+	],
+	"Beauty Schools": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.32059434056282043
+	  ],
+	  [
+		"Educational Services",
+		0.42376264929771423
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3365006148815155
+	  ]
+	],
+	"Bed and Breakfast": [
+	  [
+		"Food Services and Drinking Places",
+		0.43671557307243347
+	  ],
+	  [
+		"Accommodation",
+		0.561774492263794
+	  ],
+	  [
+		"Hospitals",
+		0.3321201503276825
+	  ]
+	],
+	"Beer & Liquor Stores": [
+	  [
+		"Food and Beverage Retailers",
+		0.5456412434577942
+	  ],
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.5138083100318909
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.5044997334480286
+	  ]
+	],
+	"Beverages & Refreshments": [
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.5341389775276184
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.5806150436401367
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.5760221481323242
+	  ]
+	],
+	"Bicycle Rental Services": [
+	  [
+		"Scenic and Sightseeing Transportation",
+		0.43061667680740356
+	  ],
+	  [
+		"Accommodation",
+		0.5109201669692993
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.46746736764907837
+	  ]
+	],
+	"Bicycle Repair Shop": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.30673930048942566
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.3623243570327759
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.48421943187713623
+	  ]
+	],
+	"Bicycle Shops, Parts & Accessories": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.5407713651657104
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.5638875365257263
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.5375710129737854
+	  ]
+	],
+	"Big Brothers & Big Sisters": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2968748211860657
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.2884814739227295
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.3075408339500427
+	  ]
+	],
+	"Biotechnology": [
+	  [
+		"Crop Production",
+		0.4343319237232208
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.40601107478141785
+	  ],
+	  [
+		"Food Manufacturing",
+		0.42467325925827026
+	  ]
+	],
+	"Blinds, Curtains & Draperies": [
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.41214144229888916
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.44262099266052246
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.502580463886261
+	  ]
+	],
+	"Blood Banks & Donation Centers": [
+	  [
+		"Monetary Authorities-Central Bank",
+		0.3344346284866333
+	  ],
+	  [
+		"Hospitals",
+		0.38363370299339294
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.3186773657798767
+	  ]
+	],
+	"Boat Rental & Chartering Services": [
+	  [
+		"Support Activities for Transportation",
+		0.5007873773574829
+	  ],
+	  [
+		"Water Transportation",
+		0.5210306644439697
+	  ],
+	  [
+		"Scenic and Sightseeing Transportation",
+		0.5388277173042297
+	  ]
+	],
+	"Boat Tours & Cruises": [
+	  [
+		"Food Services and Drinking Places",
+		0.5378904342651367
+	  ],
+	  [
+		"Scenic and Sightseeing Transportation",
+		0.6921438574790955
+	  ],
+	  [
+		"Water Transportation",
+		0.6452310085296631
+	  ]
+	],
+	"Boats services & dealers": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.5678783059120178
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.5514544248580933
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.642093300819397
+	  ]
+	],
+	"Book Publisher": [
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.32310447096824646
+	  ],
+	  [
+		"Publishing Industries",
+		0.5345472097396851
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.3307269215583801
+	  ]
+	],
+	"Book Stores": [
+	  [
+		"Publishing Industries",
+		0.40460652112960815
+	  ],
+	  [
+		"General Merchandise Retailers",
+		0.4009963274002075
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.4141864478588104
+	  ]
+	],
+	"Botanical Garden": [
+	  [
+		"Crop Production",
+		0.3232670724391937
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.2638973891735077
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.44193699955940247
+	  ]
+	],
+	"Bowling Alley": [
+	  [
+		"Food Services and Drinking Places",
+		0.32854658365249634
+	  ],
+	  [
+		"Accommodation",
+		0.28740742802619934
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.38309359550476074
+	  ]
+	],
+	"Boxing Gym": [
+	  [
+		"Warehousing and Storage",
+		0.21033677458763123
+	  ],
+	  [
+		"Construction of Buildings",
+		0.1955646276473999
+	  ],
+	  [
+		"Postal Service",
+		0.20809778571128845
+	  ]
+	],
+	"Boys & Girls Clubs": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.3136548101902008
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.39891281723976135
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.33082833886146545
+	  ]
+	],
+	"Breaks, Wheels & Tire Dealers": [
+	  [
+		"Repair and Maintenance",
+		0.5603930354118347
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.6809906363487244
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.5488662123680115
+	  ]
+	],
+	"Breweries": [
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.5283634066581726
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.46730658411979675
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.4886278212070465
+	  ]
+	],
+	"Bridal Shops & Wedding Supplies": [
+	  [
+		"Food Services and Drinking Places",
+		0.4977339804172516
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.49815449118614197
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.5035378336906433
+	  ]
+	],
+	"Building Material Manufacturers": [
+	  [
+		"Construction of Buildings",
+		0.6588674783706665
+	  ],
+	  [
+		"Wood Product Manufacturing",
+		0.708707869052887
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.648571252822876
+	  ]
+	],
+	"Buses, Shuttles & Local Transit": [
+	  [
+		"Rail Transportation",
+		0.6020530462265015
+	  ],
+	  [
+		"Air Transportation",
+		0.5589736104011536
+	  ],
+	  [
+		"Transit and Ground Passenger Transportation",
+		0.6998366117477417
+	  ]
+	],
+	"Business Associations": [
+	  [
+		"Administrative and Support Services",
+		0.5181018710136414
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.44846078753471375
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.5690795183181763
+	  ]
+	],
+	"Business Brokers": [
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.4872632622718811
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.6817814707756042
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.46121522784233093
+	  ]
+	],
+	"Business Coaching": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.32877814769744873
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.3583332598209381
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.4115700423717499
+	  ]
+	],
+	"Business Consulting": [
+	  [
+		"Management of Companies and Enterprises",
+		0.4218524992465973
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.5380498766899109
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.5037415027618408
+	  ]
+	],
+	"Business and HR Consulting": [
+	  [
+		"Administration of Human Resource Programs",
+		0.5270915627479553
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.5320073962211609
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.48083963990211487
+	  ]
+	],
+	"Butcher shop": [
+	  [
+		"Fishing, Hunting and Trapping",
+		0.3261159360408783
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3694479167461395
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.3535403907299042
+	  ]
+	],
+	"Buyback Shops": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.33565452694892883
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.33677324652671814
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.4264220893383026
+	  ]
+	],
+	"CBD and Medical Marijuana": [
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.33739620447158813
+	  ],
+	  [
+		"Food Manufacturing",
+		0.3215427100658417
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.2995285391807556
+	  ]
+	],
+	"Cabinet Makers": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4057205319404602
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.49852174520492554
+	  ],
+	  [
+		"Wood Product Manufacturing",
+		0.5313389897346497
+	  ]
+	],
+	"Cable & Internet Providers": [
+	  [
+		"Broadcasting and Content Providers",
+		0.5070456266403198
+	  ],
+	  [
+		"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+		0.46280449628829956
+	  ],
+	  [
+		"Telecommunications",
+		0.5377942323684692
+	  ]
+	],
+	"Cables & Wires": [
+	  [
+		"Telecommunications",
+		0.4694734513759613
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.4434613883495331
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.557927668094635
+	  ]
+	],
+	"Call Centers": [
+	  [
+		"Warehousing and Storage",
+		0.3609270751476288
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.4569889307022095
+	  ],
+	  [
+		"Telecommunications",
+		0.415208637714386
+	  ]
+	],
+	"Cameras & Photographic Equipment Stores": [
+	  [
+		"Rental and Leasing Services",
+		0.5336010456085205
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.5303715467453003
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.5411126613616943
+	  ]
+	],
+	"Campus Rentals": [
+	  [
+		"Accommodation",
+		0.446032851934433
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.3742407560348511
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.33309993147850037
+	  ]
+	],
+	"Car Battery Store": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.4925135672092438
+	  ],
+	  [
+		"Gasoline Stations and Fuel Dealers",
+		0.4593076705932617
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.38849616050720215
+	  ]
+	],
+	"Car Rental": [
+	  [
+		"Rental and Leasing Services",
+		0.5330336689949036
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.49602416157722473
+	  ],
+	  [
+		"Accommodation",
+		0.5195555090904236
+	  ]
+	],
+	"Car Washes": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.509438157081604
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.428786039352417
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4575336277484894
+	  ]
+	],
+	"Cardiology Clinics": [
+	  [
+		"Hospitals",
+		0.3483569920063019
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.3199720084667206
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.3056834638118744
+	  ]
+	],
+	"Carpet Cleaning": [
+	  [
+		"Repair and Maintenance",
+		0.3555837571620941
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4589782655239105
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.35640189051628113
+	  ]
+	],
+	"Carpets, Rugs & Other Floor Covers": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4048561453819275
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.404607355594635
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.4404284358024597
+	  ]
+	],
+	"Casino & Betting": [
+	  [
+		"Credit Intermediation and Related Activities",
+		0.4547635018825531
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.5560550093650818
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.7371731996536255
+	  ]
+	],
+	"Catering & Delivery": [
+	  [
+		"Food Services and Drinking Places",
+		0.7224520444869995
+	  ],
+	  [
+		"Accommodation",
+		0.5266321301460266
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.6018549799919128
+	  ]
+	],
+	"Charter Schools": [
+	  [
+		"Educational Services",
+		0.33852848410606384
+	  ],
+	  [
+		"Air Transportation",
+		0.2251780927181244
+	  ],
+	  [
+		"Transit and Ground Passenger Transportation",
+		0.22069990634918213
+	  ]
+	],
+	"Chemicals": [
+	  [
+		"Petroleum and Coal Products Manufacturing",
+		0.5210772156715393
+	  ],
+	  [
+		"Chemical Manufacturing",
+		0.6694809198379517
+	  ],
+	  [
+		"Food Manufacturing",
+		0.5138676166534424
+	  ]
+	],
+	"Children Clothing": [
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.4103844165802002
+	  ],
+	  [
+		"Apparel Manufacturing",
+		0.4348756670951843
+	  ],
+	  [
+		"Textile Product Mills",
+		0.35965538024902344
+	  ]
+	],
+	"Chimney services": [
+	  [
+		"Personal and Laundry Services",
+		0.4017725884914398
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.4655472934246063
+	  ],
+	  [
+		"Construction of Buildings",
+		0.4195489287376404
+	  ]
+	],
+	"Chinese Restaurants": [
+	  [
+		"Food and Beverage Retailers",
+		0.29294291138648987
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.45230960845947266
+	  ],
+	  [
+		"Accommodation",
+		0.30498799681663513
+	  ]
+	],
+	"Chiropractors": [
+	  [
+		"Ambulatory Health Care Services",
+		0.23967912793159485
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.20320209860801697
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.2305649071931839
+	  ]
+	],
+	"Churches & Religious Organizations": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.5566002726554871
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.40313172340393066
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.40125852823257446
+	  ]
+	],
+	"Cigar & Tobacco Stores": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.5141952633857727
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.4912262260913849
+	  ],
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.4764857292175293
+	  ]
+	],
+	"Cinemas & Video Theaters": [
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.5225880742073059
+	  ],
+	  [
+		"Broadcasting and Content Providers",
+		0.455411821603775
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4450286328792572
+	  ]
+	],
+	"Civil Engineering Services": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.7082599997520447
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.5597943067550659
+	  ],
+	  [
+		"Construction of Buildings",
+		0.574023425579071
+	  ]
+	],
+	"Civil Law Attorney": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.2728528082370758
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.28339099884033203
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.3200192153453827
+	  ]
+	],
+	"Clay & Pottery Products": [
+	  [
+		"Miscellaneous Manufacturing",
+		0.4378548264503479
+	  ],
+	  [
+		"Nonmetallic Mineral Product Manufacturing",
+		0.42966634035110474
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.4698162078857422
+	  ]
+	],
+	"Cleaning Equipment & Supplies": [
+	  [
+		"Repair and Maintenance",
+		0.4552169442176819
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4392455816268921
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4636089503765106
+	  ]
+	],
+	"Clinics - Surgeons & Physicians": [
+	  [
+		"Hospitals",
+		0.5802527070045471
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.5675584673881531
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.44748467206954956
+	  ]
+	],
+	"Clothing Alteration Service & Tailors": [
+	  [
+		"Textile Product Mills",
+		0.40536782145500183
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.4078288972377777
+	  ],
+	  [
+		"Apparel Manufacturing",
+		0.5510817766189575
+	  ]
+	],
+	"Clothing Manufacturers": [
+	  [
+		"Apparel Manufacturing",
+		0.7232581973075867
+	  ],
+	  [
+		"Textile Mills",
+		0.6371188163757324
+	  ],
+	  [
+		"Textile Product Mills",
+		0.6240249276161194
+	  ]
+	],
+	"Clothing Stores": [
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.6533288955688477
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.5640802383422852
+	  ],
+	  [
+		"Apparel Manufacturing",
+		0.6438902616500854
+	  ]
+	],
+	"Coffee & Tea Shops": [
+	  [
+		"Food and Beverage Retailers",
+		0.6112651228904724
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.6555758118629456
+	  ],
+	  [
+		"Accommodation",
+		0.5411014556884766
+	  ]
+	],
+	"Colleges & Universities": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.39992958307266235
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.4047642946243286
+	  ],
+	  [
+		"Educational Services",
+		0.5090938210487366
+	  ]
+	],
+	"Comedy Club": [
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.28134506940841675
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.29916295409202576
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.31127893924713135
+	  ]
+	],
+	"Comic Book Store": [
+	  [
+		"General Merchandise Retailers",
+		0.3778972923755646
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.3894374370574951
+	  ],
+	  [
+		"Publishing Industries",
+		0.3304797410964966
+	  ]
+	],
+	"Commercial Printing": [
+	  [
+		"Paper Manufacturing",
+		0.47261399030685425
+	  ],
+	  [
+		"Publishing Industries",
+		0.5265381336212158
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.6620516777038574
+	  ]
+	],
+	"Community Center": [
+	  [
+		"Hospitals",
+		0.3561772108078003
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.47813859581947327
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.37204694747924805
+	  ]
+	],
+	"Community Foundations": [
+	  [
+		"Credit Intermediation and Related Activities",
+		0.24685733020305634
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.3940911591053009
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.3756243884563446
+	  ]
+	],
+	"Computer Repair & Service": [
+	  [
+		"Repair and Maintenance",
+		0.5960264205932617
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.4791577160358429
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.38945063948631287
+	  ]
+	],
+	"Computer Stores": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.49078118801116943
+	  ],
+	  [
+		"General Merchandise Retailers",
+		0.49696439504623413
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.48320162296295166
+	  ]
+	],
+	"Computer Training Schools": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.3848034143447876
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.377338707447052
+	  ],
+	  [
+		"Educational Services",
+		0.46789461374282837
+	  ]
+	],
+	"Concrete Work": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.6565847396850586
+	  ],
+	  [
+		"Construction of Buildings",
+		0.5907449126243591
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.6225640177726746
+	  ]
+	],
+	"Construction Associations": [
+	  [
+		"Construction of Buildings",
+		0.5647586584091187
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.5177780389785767
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5490026473999023
+	  ]
+	],
+	"Construction Services": [
+	  [
+		"Construction of Buildings",
+		0.7521425485610962
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.7376983761787415
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.6784881949424744
+	  ]
+	],
+	"Consumer Electronics Company": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5157238245010376
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.4340060353279114
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.5050413012504578
+	  ]
+	],
+	"Consumer Goods Company": [
+	  [
+		"Health and Personal Care Retailers",
+		0.44479066133499146
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.47578585147857666
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.47576138377189636
+	  ]
+	],
+	"Content Marketing": [
+	  [
+		"Broadcasting and Content Providers",
+		0.376278817653656
+	  ],
+	  [
+		"Publishing Industries",
+		0.32959452271461487
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.3121999502182007
+	  ]
+	],
+	"Cosmetic Manufacturing": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.4945046901702881
+	  ],
+	  [
+		"Miscellaneous Manufacturing",
+		0.5394247174263
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.4855688214302063
+	  ]
+	],
+	"Cosmetics Stores": [
+	  [
+		"Health and Personal Care Retailers",
+		0.5499852895736694
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.4749685823917389
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4551917314529419
+	  ]
+	],
+	"Courthouses": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.2908570468425751
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.39452287554740906
+	  ],
+	  [
+		"Construction of Buildings",
+		0.3082261085510254
+	  ]
+	],
+	"Credit Reporting Services": [
+	  [
+		"Credit Intermediation and Related Activities",
+		0.4483396112918854
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.317870169878006
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.2952589690685272
+	  ]
+	],
+	"Credit Unions & Savings Institutions": [
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.40372133255004883
+	  ],
+	  [
+		"Monetary Authorities-Central Bank",
+		0.3980144262313843
+	  ],
+	  [
+		"Credit Intermediation and Related Activities",
+		0.49258115887641907
+	  ]
+	],
+	"Criminal Justice Attorneys": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.4325372278690338
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.2928713262081146
+	  ],
+	  [
+		"National Security and International Affairs",
+		0.294599324464798
+	  ]
+	],
+	"Crossfit Centers": [
+	  [
+		"Hospitals",
+		0.2401653677225113
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.24984024465084076
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.23980644345283508
+	  ]
+	],
+	"Cryptocurrency": [
+	  [
+		"Monetary Authorities-Central Bank",
+		0.3213644325733185
+	  ],
+	  [
+		"Rail Transportation",
+		0.23225271701812744
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.2795485258102417
+	  ]
+	],
+	"Currency Exchange Service": [
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.35101205110549927
+	  ],
+	  [
+		"Monetary Authorities-Central Bank",
+		0.380744993686676
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.37334662675857544
+	  ]
+	],
+	"Custom Furniture": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.5258734226226807
+	  ],
+	  [
+		"Wood Product Manufacturing",
+		0.48754873871803284
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.661064088344574
+	  ]
+	],
+	"Custom Tailor": [
+	  [
+		"Apparel Manufacturing",
+		0.4552070200443268
+	  ],
+	  [
+		"Textile Mills",
+		0.2885749042034149
+	  ],
+	  [
+		"Textile Product Mills",
+		0.3036915063858032
+	  ]
+	],
+	"Cybersecurity": [
+	  [
+		"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+		0.3368236720561981
+	  ],
+	  [
+		"National Security and International Affairs",
+		0.29927387833595276
+	  ],
+	  [
+		"Web Search Portals, Libraries, Archives, and Other Information Services",
+		0.31971290707588196
+	  ]
+	],
+	"DJs & Event Entertainers": [
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.5519235730171204
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.35512709617614746
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.3474329113960266
+	  ]
+	],
+	"Dairy Products - Farms & Stores": [
+	  [
+		"Crop Production",
+		0.5819602608680725
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.6441676020622253
+	  ],
+	  [
+		"Food Manufacturing",
+		0.6751121878623962
+	  ]
+	],
+	"Damage Restoration & Mold Remediation": [
+	  [
+		"Construction of Buildings",
+		0.4269775152206421
+	  ],
+	  [
+		"Waste Management and Remediation Services",
+		0.4637933671474457
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.5107231140136719
+	  ]
+	],
+	"Dance Clubs & Night Clubs": [
+	  [
+		"Accommodation",
+		0.49504634737968445
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.5811244249343872
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5424051284790039
+	  ]
+	],
+	"Dance Schools": [
+	  [
+		"Educational Services",
+		0.3887192904949188
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.339782178401947
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.25987741351127625
+	  ]
+	],
+	"Data Solutions": [
+	  [
+		"Administrative and Support Services",
+		0.44348034262657166
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.4513666331768036
+	  ],
+	  [
+		"Support Activities for Mining",
+		0.4575904309749603
+	  ]
+	],
+	"Dating Services": [
+	  [
+		"Social Assistance",
+		0.3561902940273285
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.3424491286277771
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3923366069793701
+	  ]
+	],
+	"Daycare Centers": [
+	  [
+		"Administrative and Support Services",
+		0.34314587712287903
+	  ],
+	  [
+		"Educational Services",
+		0.3875749409198761
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.3887278735637665
+	  ]
+	],
+	"Debt Collection Agencies": [
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.2500171363353729
+	  ],
+	  [
+		"Credit Intermediation and Related Activities",
+		0.2912631928920746
+	  ],
+	  [
+		"Monetary Authorities-Central Bank",
+		0.2838495671749115
+	  ]
+	],
+	"Decorators & Interior Designers": [
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.4187641143798828
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4731017053127289
+	  ],
+	  [
+		"Construction of Buildings",
+		0.4275495707988739
+	  ]
+	],
+	"Dental Laboratory": [
+	  [
+		"Construction of Buildings",
+		0.3137219548225403
+	  ],
+	  [
+		"Miscellaneous Manufacturing",
+		0.31278687715530396
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.3149237036705017
+	  ]
+	],
+	"Dentists & Dental Clinics": [
+	  [
+		"Hospitals",
+		0.43468520045280457
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.4192022979259491
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.45944276452064514
+	  ]
+	],
+	"Dermatology Clinics": [
+	  [
+		"Personal and Laundry Services",
+		0.3234004080295563
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.395124226808548
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.31734785437583923
+	  ]
+	],
+	"Detectives & Investigation Services": [
+	  [
+		"Personal and Laundry Services",
+		0.31664198637008667
+	  ],
+	  [
+		"National Security and International Affairs",
+		0.31999048590660095
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.3970640003681183
+	  ]
+	],
+	"Device Manufacturing": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.55197674036026
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.5692670345306396
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.6068943738937378
+	  ]
+	],
+	"Die Casting & Tool Manufacturing": [
+	  [
+		"Machinery Manufacturing",
+		0.5863306522369385
+	  ],
+	  [
+		"Primary Metal Manufacturing",
+		0.6211872100830078
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.6622391939163208
+	  ]
+	],
+	"Digital & Marketing Agencies": [
+	  [
+		"Administrative and Support Services",
+		0.39925578236579895
+	  ],
+	  [
+		"Publishing Industries",
+		0.34775856137275696
+	  ],
+	  [
+		"Broadcasting and Content Providers",
+		0.36809301376342773
+	  ]
+	],
+	"Distilleries & Malt Processing": [
+	  [
+		"Petroleum and Coal Products Manufacturing",
+		0.5255831480026245
+	  ],
+	  [
+		"Food Manufacturing",
+		0.5437383055686951
+	  ],
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.7646540999412537
+	  ]
+	],
+	"Dive Shops": [
+	  [
+		"Support Activities for Transportation",
+		0.374536395072937
+	  ],
+	  [
+		"Water Transportation",
+		0.3758241534233093
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.36971181631088257
+	  ]
+	],
+	"Diving Center": [
+	  [
+		"Educational Services",
+		0.33058369159698486
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.33740514516830444
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.3656846880912781
+	  ]
+	],
+	"Divorce & Family Law Attorneys": [
+	  [
+		"Administrative and Support Services",
+		0.2856353521347046
+	  ],
+	  [
+		"Private Households",
+		0.3372134268283844
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.2652026414871216
+	  ]
+	],
+	"Domestic Violence NGOs": [
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.34087133407592773
+	  ],
+	  [
+		"Social Assistance",
+		0.3325239419937134
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.3645741939544678
+	  ]
+	],
+	"Driving Schools": [
+	  [
+		"Educational Services",
+		0.42782503366470337
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.3138897120952606
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.3135029971599579
+	  ]
+	],
+	"Drug Stores & Pharmacies": [
+	  [
+		"Ambulatory Health Care Services",
+		0.4949617385864258
+	  ],
+	  [
+		"Hospitals",
+		0.4968530833721161
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.6763903498649597
+	  ]
+	],
+	"Dry Cleaners": [
+	  [
+		"Apparel Manufacturing",
+		0.3778825104236603
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.39339521527290344
+	  ],
+	  [
+		"Textile Mills",
+		0.3677804470062256
+	  ]
+	],
+	"Drywall & Insulation Contractors": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5204854607582092
+	  ],
+	  [
+		"Construction of Buildings",
+		0.5643370151519775
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.5927269458770752
+	  ]
+	],
+	"Duty Free Stores": [
+	  [
+		"Merchant Wholesalers, Nondurable Goods",
+		0.384629487991333
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.37397560477256775
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.45036181807518005
+	  ]
+	],
+	"ENT Specialists": [
+	  [
+		"Health and Personal Care Retailers",
+		0.2771891951560974
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.2704644799232483
+	  ],
+	  [
+		"Hospitals",
+		0.2721134424209595
+	  ]
+	],
+	"Edible oils manufacturing & distribution": [
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.516496479511261
+	  ],
+	  [
+		"Food Manufacturing",
+		0.6041187047958374
+	  ],
+	  [
+		"Petroleum and Coal Products Manufacturing",
+		0.5720090866088867
+	  ]
+	],
+	"Educational Associations": [
+	  [
+		"Educational Services",
+		0.5404675602912903
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.48729023337364197
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.3903827369213104
+	  ]
+	],
+	"Educational Consultants": [
+	  [
+		"Administrative and Support Services",
+		0.3325173854827881
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.40339624881744385
+	  ],
+	  [
+		"Educational Services",
+		0.5033179521560669
+	  ]
+	],
+	"Educational Publications": [
+	  [
+		"Publishing Industries",
+		0.5213302969932556
+	  ],
+	  [
+		"Educational Services",
+		0.4177200198173523
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.40859612822532654
+	  ]
+	],
+	"Electric Supplies & Power Generation": [
+	  [
+		"Utilities",
+		0.45329803228378296
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.6687591671943665
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4259319305419922
+	  ]
+	],
+	"Electric Vehicle Charging Station": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.32343465089797974
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.32737302780151367
+	  ],
+	  [
+		"Gasoline Stations and Fuel Dealers",
+		0.3688923120498657
+	  ]
+	],
+	"Electrical & Wiring Contractors": [
+	  [
+		"Specialty Trade Contractors",
+		0.6382983922958374
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5390153527259827
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5510535836219788
+	  ]
+	],
+	"Electrical Engineering Services": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.56247478723526
+	  ],
+	  [
+		"Utilities",
+		0.4743291139602661
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.44654354453086853
+	  ]
+	],
+	"Electronical Components Manufacturing": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.6062654256820679
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.6825323700904846
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.7033298015594482
+	  ]
+	],
+	"Electronical Components Retailer": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.5382366180419922
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5448703169822693
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.5203281044960022
+	  ]
+	],
+	"Electronics Repair & Maintenance": [
+	  [
+		"Repair and Maintenance",
+		0.6789305210113525
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5333850979804993
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.4753216505050659
+	  ]
+	],
+	"Electronics Stores": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.592174232006073
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.5559319257736206
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.4865938723087311
+	  ]
+	],
+	"Elementary Schools": [
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.26308512687683105
+	  ],
+	  [
+		"Educational Services",
+		0.4731726050376892
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2743210792541504
+	  ]
+	],
+	"Elevators & Ramps - Installation & Service": [
+	  [
+		"Specialty Trade Contractors",
+		0.5874818563461304
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.5952503681182861
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.5994876623153687
+	  ]
+	],
+	"Employment Agencies & HR Consulting": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.49224674701690674
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.4913359582424164
+	  ],
+	  [
+		"Administration of Human Resource Programs",
+		0.5787042379379272
+	  ]
+	],
+	"Employment Attorneys": [
+	  [
+		"Administrative and Support Services",
+		0.3766602873802185
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.3792763948440552
+	  ],
+	  [
+		"Administration of Human Resource Programs",
+		0.3750171959400177
+	  ]
+	],
+	"Endodontists": [
+	  [
+		"Support Activities for Mining",
+		0.266947478055954
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.28604719042778015
+	  ],
+	  [
+		"Mining (except Oil and Gas)",
+		0.2643643915653229
+	  ]
+	],
+	"Energy - Equipment & Supplies": [
+	  [
+		"Utilities",
+		0.574855625629425
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.5508672595024109
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.6491395235061646
+	  ]
+	],
+	"Engines": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.4083666503429413
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.4391065835952759
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.5282697677612305
+	  ]
+	],
+	"Entertainers": [
+	  [
+		"Broadcasting and Content Providers",
+		0.3352019488811493
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.34475213289260864
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.5495359897613525
+	  ]
+	],
+	"Environmental Engineering Services": [
+	  [
+		"Administration of Environmental Quality Programs",
+		0.45937594771385193
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.4657095968723297
+	  ],
+	  [
+		"Waste Management and Remediation Services",
+		0.4603460133075714
+	  ]
+	],
+	"Equine Services": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.42072510719299316
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4679810106754303
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.41367629170417786
+	  ]
+	],
+	"Escrow Companies": [
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.4006742537021637
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.40428426861763
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.4127873480319977
+	  ]
+	],
+	"Estate Planning & Elder Law Attorneys": [
+	  [
+		"Administrative and Support Services",
+		0.379671573638916
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.354028582572937
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.340038001537323
+	  ]
+	],
+	"Event Planner Services": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.35471343994140625
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.44140928983688354
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.43372783064842224
+	  ]
+	],
+	"Events Venues": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5321786999702454
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.48298001289367676
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4832533895969391
+	  ]
+	],
+	"Excavation, Bulldozing & Demolition": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.603514552116394
+	  ],
+	  [
+		"Mining (except Oil and Gas)",
+		0.5249311327934265
+	  ],
+	  [
+		"Support Activities for Mining",
+		0.5182657837867737
+	  ]
+	],
+	"Executive, Legislative & Government Institutions": [
+	  [
+		"Administration of Environmental Quality Programs",
+		0.6000177264213562
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.6036534309387207
+	  ],
+	  [
+		"Executive, Legislative, and Other General Government Support",
+		0.6794378757476807
+	  ]
+	],
+	"Fabric-Based Home Goods": [
+	  [
+		"Apparel Manufacturing",
+		0.6007617115974426
+	  ],
+	  [
+		"Textile Mills",
+		0.606643795967102
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.6043121814727783
+	  ]
+	],
+	"Fabricated Rubber Products": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.4390913248062134
+	  ],
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.6591794490814209
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.5014485120773315
+	  ]
+	],
+	"Farm Equipment": [
+	  [
+		"Crop Production",
+		0.5201779007911682
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.4380802810192108
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.4539479911327362
+	  ]
+	],
+	"Farms & Agriculture Production": [
+	  [
+		"Crop Production",
+		0.7883901596069336
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.664496898651123
+	  ],
+	  [
+		"Support Activities for Agriculture and Forestry",
+		0.5726678371429443
+	  ]
+	],
+	"Fashion Accessories": [
+	  [
+		"Apparel Manufacturing",
+		0.5067287683486938
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.5597760677337646
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.49303898215293884
+	  ]
+	],
+	"Fashion Designers": [
+	  [
+		"Apparel Manufacturing",
+		0.481903612613678
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.405768483877182
+	  ],
+	  [
+		"Textile Product Mills",
+		0.3981143534183502
+	  ]
+	],
+	"Fast food Restaurants": [
+	  [
+		"Food Manufacturing",
+		0.2869207262992859
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.47377336025238037
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.39043909311294556
+	  ]
+	],
+	"Fastener Suppliers": [
+	  [
+		"Construction of Buildings",
+		0.4229568541049957
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.43512874841690063
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.46294018626213074
+	  ]
+	],
+	"Fences & Ornamental Metal Work": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5385759472846985
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.47896701097488403
+	  ],
+	  [
+		"Construction of Buildings",
+		0.45657142996788025
+	  ]
+	],
+	"Fertility, Birth & Maternity Services": [
+	  [
+		"Ambulatory Health Care Services",
+		0.3879222571849823
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.43348193168640137
+	  ],
+	  [
+		"Hospitals",
+		0.45495620369911194
+	  ]
+	],
+	"Fiberglass Services & Products": [
+	  [
+		"Support Activities for Transportation",
+		0.4587528705596924
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.5107797980308533
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.4301645755767822
+	  ]
+	],
+	"Finance Associations": [
+	  [
+		"Credit Intermediation and Related Activities",
+		0.5456615686416626
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.5485957264900208
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.5590344071388245
+	  ]
+	],
+	"Financial Services": [
+	  [
+		"Credit Intermediation and Related Activities",
+		0.5729988217353821
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.5969460606575012
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.5363419055938721
+	  ]
+	],
+	"Fine Arts Schools": [
+	  [
+		"Educational Services",
+		0.42390045523643494
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.37382417917251587
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.3608083128929138
+	  ]
+	],
+	"Fire Departments & Fire Protection": [
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.38641518354415894
+	  ],
+	  [
+		"Utilities",
+		0.35865116119384766
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.47098252177238464
+	  ]
+	],
+	"Firewood Supplier": [
+	  [
+		"Wood Product Manufacturing",
+		0.43901965022087097
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4187396764755249
+	  ],
+	  [
+		"Forestry and Logging",
+		0.4426122307777405
+	  ]
+	],
+	"Fish & Seafood Restaurants": [
+	  [
+		"Food and Beverage Retailers",
+		0.37007632851600647
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4761049449443817
+	  ],
+	  [
+		"Fishing, Hunting and Trapping",
+		0.34002485871315
+	  ]
+	],
+	"Fish Farms": [
+	  [
+		"Crop Production",
+		0.5440040230751038
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.6875548958778381
+	  ],
+	  [
+		"Fishing, Hunting and Trapping",
+		0.597779393196106
+	  ]
+	],
+	"Fitness Equipment": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.31078851222991943
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.3451157510280609
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.3422694802284241
+	  ]
+	],
+	"Flight Training": [
+	  [
+		"Educational Services",
+		0.3791351616382599
+	  ],
+	  [
+		"Space Research and Technology",
+		0.3158442974090576
+	  ],
+	  [
+		"Air Transportation",
+		0.3922107517719269
+	  ]
+	],
+	"Flooring Contractors": [
+	  [
+		"Specialty Trade Contractors",
+		0.5159310102462769
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.42966005206108093
+	  ],
+	  [
+		"Construction of Buildings",
+		0.47300106287002563
+	  ]
+	],
+	"Florists": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.37958142161369324
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.3797626793384552
+	  ],
+	  [
+		"Air Transportation",
+		0.355690598487854
+	  ]
+	],
+	"Food & Beverage Associations": [
+	  [
+		"Food Services and Drinking Places",
+		0.5537230968475342
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.5620241165161133
+	  ],
+	  [
+		"Food Manufacturing",
+		0.5460920929908752
+	  ]
+	],
+	"Food & Beverage Publications": [
+	  [
+		"Food Services and Drinking Places",
+		0.525711178779602
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.5671678185462952
+	  ],
+	  [
+		"Food Manufacturing",
+		0.5337416529655457
+	  ]
+	],
+	"Food Banks": [
+	  [
+		"Food and Beverage Retailers",
+		0.35505256056785583
+	  ],
+	  [
+		"Monetary Authorities-Central Bank",
+		0.32891207933425903
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.31331101059913635
+	  ]
+	],
+	"Food Production": [
+	  [
+		"Crop Production",
+		0.6941305994987488
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.6006460785865784
+	  ],
+	  [
+		"Food Manufacturing",
+		0.8164058327674866
+	  ]
+	],
+	"Food delivery": [
+	  [
+		"Couriers and Messengers",
+		0.5989878177642822
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.5305458903312683
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.49058055877685547
+	  ]
+	],
+	"Forging & Metal Stampings": [
+	  [
+		"Primary Metal Manufacturing",
+		0.6705995798110962
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.5501800775527954
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.7362939715385437
+	  ]
+	],
+	"Foundation Contractors": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5534513592720032
+	  ],
+	  [
+		"Construction of Buildings",
+		0.5889429450035095
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.5486491918563843
+	  ]
+	],
+	"Fruit & Vegetable - Markets & Stores": [
+	  [
+		"Crop Production",
+		0.5718978643417358
+	  ],
+	  [
+		"Merchant Wholesalers, Nondurable Goods",
+		0.5875451564788818
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.6309778690338135
+	  ]
+	],
+	"Funeral Services & Cemeteries": [
+	  [
+		"Personal and Laundry Services",
+		0.4885983169078827
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.4620249271392822
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.4371245205402374
+	  ]
+	],
+	"Fur Goods": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.476124107837677
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.44574788212776184
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.5849605798721313
+	  ]
+	],
+	"Furniture Repair & Reconditioning": [
+	  [
+		"Repair and Maintenance",
+		0.5647268295288086
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.525972843170166
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.5414806604385376
+	  ]
+	],
+	"Furniture Stores": [
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.6838890314102173
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.505627453327179
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.6895647644996643
+	  ]
+	],
+	"Garbage Collection & Waste Disposal": [
+	  [
+		"Mining (except Oil and Gas)",
+		0.46186932921409607
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.4322245717048645
+	  ],
+	  [
+		"Waste Management and Remediation Services",
+		0.688869059085846
+	  ]
+	],
+	"Garden Equipment & Supplies": [
+	  [
+		"Crop Production",
+		0.4076913893222809
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.6050085425376892
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.46397823095321655
+	  ]
+	],
+	"Gas Stations": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.45433375239372253
+	  ],
+	  [
+		"Gasoline Stations and Fuel Dealers",
+		0.686643123626709
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4210989475250244
+	  ]
+	],
+	"Gastroenterology Clinics": [
+	  [
+		"Food Services and Drinking Places",
+		0.35128533840179443
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.3649892210960388
+	  ],
+	  [
+		"Hospitals",
+		0.4126446545124054
+	  ]
+	],
+	"General Contractors": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.6120738983154297
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.6388817429542542
+	  ],
+	  [
+		"Construction of Buildings",
+		0.6507576107978821
+	  ]
+	],
+	"General Practice Attorneys": [
+	  [
+		"Health and Personal Care Retailers",
+		0.3373139202594757
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.38067328929901123
+	  ],
+	  [
+		"Executive, Legislative, and Other General Government Support",
+		0.3640158474445343
+	  ]
+	],
+	"General Retail & Merchandise": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.6150345206260681
+	  ],
+	  [
+		"General Merchandise Retailers",
+		0.7369370460510254
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.6231633424758911
+	  ]
+	],
+	"Geotechnical Engineering Services": [
+	  [
+		"Construction of Buildings",
+		0.5406469702720642
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.6658614873886108
+	  ],
+	  [
+		"Support Activities for Mining",
+		0.5559182167053223
+	  ]
+	],
+	"Gift Shops": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.46754351258277893
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.4138777256011963
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.39620882272720337
+	  ]
+	],
+	"Glass & Mirror Stores": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.41330966353416443
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.44808414578437805
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.4433627426624298
+	  ]
+	],
+	"Glaziers & Glass Products": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.3896305561065674
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.4065276086330414
+	  ],
+	  [
+		"Nonmetallic Mineral Product Manufacturing",
+		0.4290032982826233
+	  ]
+	],
+	"Golf Cart Dealers": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.38988712430000305
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.5021507740020752
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.3981027901172638
+	  ]
+	],
+	"Golf Courses & Country Clubs": [
+	  [
+		"Food Services and Drinking Places",
+		0.38896921277046204
+	  ],
+	  [
+		"Accommodation",
+		0.3969801366329193
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.43104100227355957
+	  ]
+	],
+	"Graphic Design": [
+	  [
+		"Publishing Industries",
+		0.3275461196899414
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.3955935835838318
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.3219955861568451
+	  ]
+	],
+	"Greek Restaurants": [
+	  [
+		"Accommodation",
+		0.22258161008358002
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.27747267484664917
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.38973841071128845
+	  ]
+	],
+	"Groceries": [
+	  [
+		"Food and Beverage Retailers",
+		0.4826861321926117
+	  ],
+	  [
+		"General Merchandise Retailers",
+		0.38819369673728943
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.40112927556037903
+	  ]
+	],
+	"Groceries Delivery": [
+	  [
+		"Warehousing and Storage",
+		0.5191074013710022
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.5052919387817383
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.5623544454574585
+	  ]
+	],
+	"Gun shop": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.4257371723651886
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.47211921215057373
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4153088331222534
+	  ]
+	],
+	"Gymnastics": [
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.282968133687973
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.2568742632865906
+	  ],
+	  [
+		"Educational Services",
+		0.2639266550540924
+	  ]
+	],
+	"Gyms, Fitness & Health Centers": [
+	  [
+		"Health and Personal Care Retailers",
+		0.35527342557907104
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3630233407020569
+	  ],
+	  [
+		"Hospitals",
+		0.38754209876060486
+	  ]
+	],
+	"HVAC Associations": [
+	  [
+		"Administrative and Support Services",
+		0.44026410579681396
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.418540894985199
+	  ],
+	  [
+		"Accommodation",
+		0.40615329146385193
+	  ]
+	],
+	"Hair Removal Service": [
+	  [
+		"Printing and Related Support Activities",
+		0.24654090404510498
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3312003016471863
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.2510642111301422
+	  ]
+	],
+	"Hair Salons": [
+	  [
+		"Health and Personal Care Retailers",
+		0.37300947308540344
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.3405002951622009
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4043583869934082
+	  ]
+	],
+	"Hamburgers, Hot-Dogs & Sandwiches": [
+	  [
+		"Food Services and Drinking Places",
+		0.6951247453689575
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.6287618279457092
+	  ],
+	  [
+		"Food Manufacturing",
+		0.5222928524017334
+	  ]
+	],
+	"Handmade & Crafts Marketplace": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.5011370182037354
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.47670072317123413
+	  ],
+	  [
+		"Miscellaneous Manufacturing",
+		0.49781447649002075
+	  ]
+	],
+	"Handyman Services": [
+	  [
+		"Private Households",
+		0.4375693202018738
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.4623698592185974
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4248824119567871
+	  ]
+	],
+	"Hardware Stores": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.5698210597038269
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.45437392592430115
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.46278730034828186
+	  ]
+	],
+	"Haunted Houses": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.3069259524345398
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.23271623253822327
+	  ],
+	  [
+		"Accommodation",
+		0.229486882686615
+	  ]
+	],
+	"Health & Medical Association": [
+	  [
+		"Hospitals",
+		0.4337025284767151
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.5144410729408264
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.4540417194366455
+	  ]
+	],
+	"Health & Medical Publications": [
+	  [
+		"Hospitals",
+		0.31041765213012695
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.32583916187286377
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.36794614791870117
+	  ]
+	],
+	"Health Care Services": [
+	  [
+		"Health and Personal Care Retailers",
+		0.6241324543952942
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.6651949286460876
+	  ],
+	  [
+		"Hospitals",
+		0.6523398160934448
+	  ]
+	],
+	"Health Insurance Agency": [
+	  [
+		"Administration of Human Resource Programs",
+		0.3896852433681488
+	  ],
+	  [
+		"Insurance Carriers and Related Activities",
+		0.5167279243469238
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.38722360134124756
+	  ]
+	],
+	"Heating & Air Conditioning": [
+	  [
+		"Rental and Leasing Services",
+		0.5887641906738281
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.6116458177566528
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.6259990930557251
+	  ]
+	],
+	"Heavy Construction Equipment": [
+	  [
+		"Specialty Trade Contractors",
+		0.49332210421562195
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.6105045080184937
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.5015062093734741
+	  ]
+	],
+	"High Schools": [
+	  [
+		"Administration of Human Resource Programs",
+		0.23475605249404907
+	  ],
+	  [
+		"Educational Services",
+		0.40532538294792175
+	  ],
+	  [
+		"Utilities",
+		0.241670161485672
+	  ]
+	],
+	"Hobby Shops": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.555489182472229
+	  ],
+	  [
+		"Miscellaneous Manufacturing",
+		0.4099653959274292
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4491185247898102
+	  ]
+	],
+	"Holding Companies": [
+	  [
+		"Management of Companies and Enterprises",
+		0.5374695062637329
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.41912174224853516
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.41794049739837646
+	  ]
+	],
+	"Home Builders & Renovation Contractors": [
+	  [
+		"Construction of Buildings",
+		0.6601134538650513
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.6335849761962891
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.6039377450942993
+	  ]
+	],
+	"Home Health Care": [
+	  [
+		"Ambulatory Health Care Services",
+		0.4678506851196289
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.5077594518661499
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.4752155542373657
+	  ]
+	],
+	"Homelessness Shelter": [
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.34517717361450195
+	  ],
+	  [
+		"Social Assistance",
+		0.38607269525527954
+	  ],
+	  [
+		"Accommodation",
+		0.37928521633148193
+	  ]
+	],
+	"Honey Farms & Bee Keepers": [
+	  [
+		"Crop Production",
+		0.4824399948120117
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.46859800815582275
+	  ],
+	  [
+		"Food Manufacturing",
+		0.41975462436676025
+	  ]
+	],
+	"Hose & Belts": [
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.5961264967918396
+	  ],
+	  [
+		"Pipeline Transportation",
+		0.49440303444862366
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.47429385781288147
+	  ]
+	],
+	"Hosting & Cloud Infrastructure Providers": [
+	  [
+		"Administrative and Support Services",
+		0.3426946699619293
+	  ],
+	  [
+		"Web Search Portals, Libraries, Archives, and Other Information Services",
+		0.3468419313430786
+	  ],
+	  [
+		"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+		0.6686298251152039
+	  ]
+	],
+	"Hotels": [
+	  [
+		"Accommodation",
+		0.6874841451644897
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.5043960213661194
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.5639873743057251
+	  ]
+	],
+	"Housekeeping Services": [
+	  [
+		"Accommodation",
+		0.4593166410923004
+	  ],
+	  [
+		"Private Households",
+		0.4889916777610779
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.6147361397743225
+	  ]
+	],
+	"Housing Programs": [
+	  [
+		"Social Assistance",
+		0.4558219015598297
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.6385951042175293
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.4265843629837036
+	  ]
+	],
+	"Hunting & Fishing - Services & Supplies": [
+	  [
+		"Food Services and Drinking Places",
+		0.5981756448745728
+	  ],
+	  [
+		"Scenic and Sightseeing Transportation",
+		0.615827202796936
+	  ],
+	  [
+		"Fishing, Hunting and Trapping",
+		0.670628011226654
+	  ]
+	],
+	"Hydropower energy and services": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.40554600954055786
+	  ],
+	  [
+		"Utilities",
+		0.5283571481704712
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.40605077147483826
+	  ]
+	],
+	"Ice": [
+	  [
+		"Food and Beverage Retailers",
+		0.5164240002632141
+	  ],
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.5160243511199951
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.49568790197372437
+	  ]
+	],
+	"Ice Cream": [
+	  [
+		"Food Services and Drinking Places",
+		0.30305176973342896
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.32284829020500183
+	  ],
+	  [
+		"Food Manufacturing",
+		0.3111385703086853
+	  ]
+	],
+	"Ice Skating & Hockey club": [
+	  [
+		"Administration of Economic Programs",
+		0.2262641042470932
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.2246401607990265
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.2739335298538208
+	  ]
+	],
+	"Immigration Attorneys": [
+	  [
+		"National Security and International Affairs",
+		0.2997486889362335
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.2627917528152466
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.2768952548503876
+	  ]
+	],
+	"Independent Living Facilities": [
+	  [
+		"Social Assistance",
+		0.42358243465423584
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.5294301509857178
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4106557071208954
+	  ]
+	],
+	"Indian Restaurants": [
+	  [
+		"Food Services and Drinking Places",
+		0.45800918340682983
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3498314321041107
+	  ],
+	  [
+		"Accommodation",
+		0.28443920612335205
+	  ]
+	],
+	"Industrial Air Solutions": [
+	  [
+		"Waste Management and Remediation Services",
+		0.4728412926197052
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.455179363489151
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.4605150818824768
+	  ]
+	],
+	"Industrial Diamond Solutions": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.4282594919204712
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.43380066752433777
+	  ],
+	  [
+		"Nonmetallic Mineral Product Manufacturing",
+		0.47969722747802734
+	  ]
+	],
+	"Industrial Machinery & Supplies": [
+	  [
+		"Machinery Manufacturing",
+		0.676989734172821
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5280656218528748
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.5826210379600525
+	  ]
+	],
+	"Industrial Products Manufacturer": [
+	  [
+		"Miscellaneous Manufacturing",
+		0.5447088479995728
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.5633585453033447
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.5598316788673401
+	  ]
+	],
+	"Industry Associations": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.6113944053649902
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.49332302808761597
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.5136585831642151
+	  ]
+	],
+	"Injection Molding Services": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.5526020526885986
+	  ],
+	  [
+		"Primary Metal Manufacturing",
+		0.49083587527275085
+	  ],
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.5535189509391785
+	  ]
+	],
+	"Inns": [
+	  [
+		"Accommodation",
+		0.5457116961479187
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4599904417991638
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.39268678426742554
+	  ]
+	],
+	"Insurance - Agents, Carriers & Brokers": [
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.618184506893158
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.6330394744873047
+	  ],
+	  [
+		"Insurance Carriers and Related Activities",
+		0.6887956857681274
+	  ]
+	],
+	"Insurance Law Attorneys": [
+	  [
+		"Insurance Carriers and Related Activities",
+		0.4882878363132477
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.29298368096351624
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.37440192699432373
+	  ]
+	],
+	"Investment Consultants & Financial Advisors": [
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.35377487540245056
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.4242287278175354
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.339263916015625
+	  ]
+	],
+	"Investment Firms & Venture Capital": [
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.5611406564712524
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.5789868235588074
+	  ],
+	  [
+		"Credit Intermediation and Related Activities",
+		0.5276080965995789
+	  ]
+	],
+	"IoT": [
+	  [
+		"Machinery Manufacturing",
+		0.34560802578926086
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.42202258110046387
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.3458601236343384
+	  ]
+	],
+	"Irrigation Systems & Services": [
+	  [
+		"Crop Production",
+		0.5193670392036438
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.52852463722229
+	  ],
+	  [
+		"Utilities",
+		0.5055330991744995
+	  ]
+	],
+	"Japanese & Sushi Restaurants": [
+	  [
+		"Administrative and Support Services",
+		0.24017035961151123
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3468541204929352
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4224507808685303
+	  ]
+	],
+	"Kitchen Furniture & Equipment": [
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.6376606822013855
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.565343976020813
+	  ],
+	  [
+		"Wood Product Manufacturing",
+		0.4492299258708954
+	  ]
+	],
+	"Knives, Blades & Saws": [
+	  [
+		"Wood Product Manufacturing",
+		0.37455907464027405
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.36728936433792114
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.3807191252708435
+	  ]
+	],
+	"Laboratory Equipment & Supplies": [
+	  [
+		"Miscellaneous Manufacturing",
+		0.3073425889015198
+	  ],
+	  [
+		"Nonmetallic Mineral Product Manufacturing",
+		0.3012700080871582
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.33682939410209656
+	  ]
+	],
+	"Landscaping & Lawn Services": [
+	  [
+		"Personal and Laundry Services",
+		0.4036436080932617
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.40366631746292114
+	  ],
+	  [
+		"Support Activities for Agriculture and Forestry",
+		0.38538336753845215
+	  ]
+	],
+	"Landscaping Supplies": [
+	  [
+		"Specialty Trade Contractors",
+		0.38182541728019714
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.571461021900177
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.40672144293785095
+	  ]
+	],
+	"Language & Speaking Schools": [
+	  [
+		"Educational Services",
+		0.4051734209060669
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.20530042052268982
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.21850189566612244
+	  ]
+	],
+	"Laser Tag Center": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.36419612169265747
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2835109233856201
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.27934861183166504
+	  ]
+	],
+	"Latin American Restaurants": [
+	  [
+		"Food Services and Drinking Places",
+		0.39176347851753235
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.269580602645874
+	  ],
+	  [
+		"Food Manufacturing",
+		0.21844831109046936
+	  ]
+	],
+	"Learning, Tutoring & Courses": [
+	  [
+		"Educational Services",
+		0.645999550819397
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.49549609422683716
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4516012668609619
+	  ]
+	],
+	"Leather Processing": [
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.533211350440979
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.7613849639892578
+	  ],
+	  [
+		"Textile Mills",
+		0.5288820862770081
+	  ]
+	],
+	"Legal Associations": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.439302533864975
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.470167338848114
+	  ],
+	  [
+		"Executive, Legislative, and Other General Government Support",
+		0.3977065086364746
+	  ]
+	],
+	"Legal Publications": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.34919750690460205
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.32212725281715393
+	  ],
+	  [
+		"Publishing Industries",
+		0.4919571280479431
+	  ]
+	],
+	"Legal Services": [
+	  [
+		"Administrative and Support Services",
+		0.5010793209075928
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4850536286830902
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.48626813292503357
+	  ]
+	],
+	"Liability Insurance Agency": [
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.3079841136932373
+	  ],
+	  [
+		"Insurance Carriers and Related Activities",
+		0.4957948327064514
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.3708890378475189
+	  ]
+	],
+	"Libraries": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.3658616542816162
+	  ],
+	  [
+		"Web Search Portals, Libraries, Archives, and Other Information Services",
+		0.47266876697540283
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.4606460630893707
+	  ]
+	],
+	"Lighting Stores": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.534733772277832
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5575078725814819
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.5323010683059692
+	  ]
+	],
+	"Limousines": [
+	  [
+		"Couriers and Messengers",
+		0.4437059462070465
+	  ],
+	  [
+		"Truck Transportation",
+		0.4303935468196869
+	  ],
+	  [
+		"Air Transportation",
+		0.4781549870967865
+	  ]
+	],
+	"Livestock & Animal Raising": [
+	  [
+		"Crop Production",
+		0.6069508790969849
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.7406198382377625
+	  ],
+	  [
+		"Food Manufacturing",
+		0.5421640276908875
+	  ]
+	],
+	"Loans & Financing": [
+	  [
+		"Rental and Leasing Services",
+		0.5262712240219116
+	  ],
+	  [
+		"Credit Intermediation and Related Activities",
+		0.6748443245887756
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.4778905510902405
+	  ]
+	],
+	"Locksmiths": [
+	  [
+		"Personal and Laundry Services",
+		0.33227717876434326
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.32651159167289734
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.3821924030780792
+	  ]
+	],
+	"Luggages, Bags & Handbags": [
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.5647098422050476
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.5802914500236511
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.5591275095939636
+	  ]
+	],
+	"Machinery parts manufacturer": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.5228967666625977
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.6316906213760376
+	  ],
+	  [
+		"Transportation Equipment Manufacturing",
+		0.5249693989753723
+	  ]
+	],
+	"Malls & Shopping Centers": [
+	  [
+		"General Merchandise Retailers",
+		0.5010802149772644
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4602101743221283
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.49392154812812805
+	  ]
+	],
+	"Marble, Granite & Stone Products": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4575170874595642
+	  ],
+	  [
+		"Nonmetallic Mineral Product Manufacturing",
+		0.5396236777305603
+	  ],
+	  [
+		"Construction of Buildings",
+		0.44245418906211853
+	  ]
+	],
+	"Marine Engineering Services": [
+	  [
+		"Repair and Maintenance",
+		0.4962693452835083
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.530271053314209
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.6283053159713745
+	  ]
+	],
+	"Market Research & Opinion Polling": [
+	  [
+		"Administrative and Support Services",
+		0.3328164517879486
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.3371714651584625
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3618566691875458
+	  ]
+	],
+	"Martial Arts Gyms": [
+	  [
+		"Educational Services",
+		0.2604261636734009
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.23551614582538605
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.22506827116012573
+	  ]
+	],
+	"Masonry Contractors": [
+	  [
+		"Specialty Trade Contractors",
+		0.5613725781440735
+	  ],
+	  [
+		"Construction of Buildings",
+		0.5978997349739075
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5120845437049866
+	  ]
+	],
+	"Masonry Supply Store": [
+	  [
+		"Construction of Buildings",
+		0.4950859844684601
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.458834707736969
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.5335232019424438
+	  ]
+	],
+	"Massage Therapists": [
+	  [
+		"Personal and Laundry Services",
+		0.24059312045574188
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.3089340627193451
+	  ],
+	  [
+		"Hospitals",
+		0.24072033166885376
+	  ]
+	],
+	"Maternity Clothes": [
+	  [
+		"Apparel Manufacturing",
+		0.3642089366912842
+	  ],
+	  [
+		"Textile Mills",
+		0.31737416982650757
+	  ],
+	  [
+		"Textile Product Mills",
+		0.29841509461402893
+	  ]
+	],
+	"Mattress Stores": [
+	  [
+		"Accommodation",
+		0.41174373030662537
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.40855246782302856
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4421956241130829
+	  ]
+	],
+	"Mealkit Delivery": [
+	  [
+		"Couriers and Messengers",
+		0.40814146399497986
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.3735133111476898
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3222302496433258
+	  ]
+	],
+	"Meat Production & Processing": [
+	  [
+		"Crop Production",
+		0.5406994819641113
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.5765321850776672
+	  ],
+	  [
+		"Food Manufacturing",
+		0.658337414264679
+	  ]
+	],
+	"Meat, Fish & Seafood Stores": [
+	  [
+		"Food and Beverage Retailers",
+		0.5984596014022827
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.5022915601730347
+	  ],
+	  [
+		"Fishing, Hunting and Trapping",
+		0.49176034331321716
+	  ]
+	],
+	"Mechanical Contractors": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5621038675308228
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.5267186164855957
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.5830234885215759
+	  ]
+	],
+	"Media & Telecom Associations": [
+	  [
+		"Telecommunications",
+		0.5412142872810364
+	  ],
+	  [
+		"Broadcasting and Content Providers",
+		0.6709290146827698
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.5238258242607117
+	  ]
+	],
+	"Media Companies": [
+	  [
+		"Broadcasting and Content Providers",
+		0.6780102252960205
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.5273833870887756
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.5511319041252136
+	  ]
+	],
+	"Medical Devices": [
+	  [
+		"Hospitals",
+		0.3254114091396332
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.3752012550830841
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.3218310475349426
+	  ]
+	],
+	"Medical Laboratories": [
+	  [
+		"Health and Personal Care Retailers",
+		0.2806118130683899
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.329813688993454
+	  ],
+	  [
+		"Hospitals",
+		0.36814263463020325
+	  ]
+	],
+	"Medical Research": [
+	  [
+		"Nursing and Residential Care Facilities",
+		0.32920894026756287
+	  ],
+	  [
+		"Hospitals",
+		0.39560818672180176
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.407620906829834
+	  ]
+	],
+	"Medical Supply Manufacturers": [
+	  [
+		"Health and Personal Care Retailers",
+		0.5158399343490601
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.49633151292800903
+	  ],
+	  [
+		"Hospitals",
+		0.49791988730430603
+	  ]
+	],
+	"Medical Supply Retailers": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.4874318242073059
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.6482930779457092
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.4799593985080719
+	  ]
+	],
+	"Meditation & Retreat Centers": [
+	  [
+		"Nursing and Residential Care Facilities",
+		0.33149704337120056
+	  ],
+	  [
+		"Hospitals",
+		0.31999924778938293
+	  ],
+	  [
+		"Accommodation",
+		0.3066699206829071
+	  ]
+	],
+	"Metal Fabrication Services": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.7553385496139526
+	  ],
+	  [
+		"Primary Metal Manufacturing",
+		0.6713619232177734
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.6218464374542236
+	  ]
+	],
+	"Metal Plating, Polishing & Coloring": [
+	  [
+		"Mining (except Oil and Gas)",
+		0.4564354121685028
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.5232667326927185
+	  ],
+	  [
+		"Primary Metal Manufacturing",
+		0.5796806216239929
+	  ]
+	],
+	"Metal Roofing": [
+	  [
+		"Primary Metal Manufacturing",
+		0.38248902559280396
+	  ],
+	  [
+		"Construction of Buildings",
+		0.39482381939888
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.40309131145477295
+	  ]
+	],
+	"Metal Storage Tanks": [
+	  [
+		"Primary Metal Manufacturing",
+		0.41065484285354614
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.44775786995887756
+	  ],
+	  [
+		"Pipeline Transportation",
+		0.36127743124961853
+	  ]
+	],
+	"Mexican Restaurants": [
+	  [
+		"Food Manufacturing",
+		0.2602877616882324
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.30205038189888
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.420826256275177
+	  ]
+	],
+	"Middle Eastern Restaurants": [
+	  [
+		"Accommodation",
+		0.2548016607761383
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.3784728944301605
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.29514455795288086
+	  ]
+	],
+	"Middle Schools": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.23212705552577972
+	  ],
+	  [
+		"Educational Services",
+		0.3279210925102234
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.21315450966358185
+	  ]
+	],
+	"Minerals, Earths & Ores": [
+	  [
+		"Support Activities for Mining",
+		0.5636361241340637
+	  ],
+	  [
+		"Mining (except Oil and Gas)",
+		0.677598774433136
+	  ],
+	  [
+		"Nonmetallic Mineral Product Manufacturing",
+		0.681800127029419
+	  ]
+	],
+	"Mining & Gas Exploration": [
+	  [
+		"Oil and Gas Extraction",
+		0.7226705551147461
+	  ],
+	  [
+		"Mining (except Oil and Gas)",
+		0.7047971487045288
+	  ],
+	  [
+		"Support Activities for Mining",
+		0.7610144019126892
+	  ]
+	],
+	"Missiles, Explosives & Fireworks": [
+	  [
+		"Miscellaneous Manufacturing",
+		0.44516459107398987
+	  ],
+	  [
+		"Nonmetallic Mineral Product Manufacturing",
+		0.47142741084098816
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.3858790695667267
+	  ]
+	],
+	"Mobile App Agencies": [
+	  [
+		"Administrative and Support Services",
+		0.35664770007133484
+	  ],
+	  [
+		"Publishing Industries",
+		0.3066437244415283
+	  ],
+	  [
+		"Telecommunications",
+		0.30254796147346497
+	  ]
+	],
+	"Modeling Agency": [
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.3568994402885437
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.3168545365333557
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.3643472492694855
+	  ]
+	],
+	"Money Transfer": [
+	  [
+		"Couriers and Messengers",
+		0.41491270065307617
+	  ],
+	  [
+		"Monetary Authorities-Central Bank",
+		0.34037676453590393
+	  ],
+	  [
+		"Credit Intermediation and Related Activities",
+		0.322928249835968
+	  ]
+	],
+	"Montessori Schools": [
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.17796902358531952
+	  ],
+	  [
+		"Educational Services",
+		0.3003476560115814
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.14908234775066376
+	  ]
+	],
+	"Monuments & Memorials": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.3298875391483307
+	  ],
+	  [
+		"Hospitals",
+		0.3128829300403595
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.5530511140823364
+	  ]
+	],
+	"Mortgage Brokers": [
+	  [
+		"Credit Intermediation and Related Activities",
+		0.4558696746826172
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.39140215516090393
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.57017982006073
+	  ]
+	],
+	"Motels": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.42115017771720886
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.47221073508262634
+	  ],
+	  [
+		"Accommodation",
+		0.6875382661819458
+	  ]
+	],
+	"Motor Homes, Trailers & RVs - Dealers & Rentals": [
+	  [
+		"Rental and Leasing Services",
+		0.6390225887298584
+	  ],
+	  [
+		"Accommodation",
+		0.651431143283844
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.6909662485122681
+	  ]
+	],
+	"Motorcycle Dealers & Rentals": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.5897848606109619
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.504767656326294
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.48153093457221985
+	  ]
+	],
+	"Motorcycle Repair Shops": [
+	  [
+		"Machinery Manufacturing",
+		0.3855792284011841
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.5433679223060608
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.4880119264125824
+	  ]
+	],
+	"Movers & Heavy Transportation": [
+	  [
+		"Warehousing and Storage",
+		0.5042442679405212
+	  ],
+	  [
+		"Truck Transportation",
+		0.6636109948158264
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.6164445281028748
+	  ]
+	],
+	"Museums": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.2974575459957123
+	  ],
+	  [
+		"Web Search Portals, Libraries, Archives, and Other Information Services",
+		0.3085262179374695
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.7446246147155762
+	  ]
+	],
+	"Music Schools & Instructors": [
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.4012806713581085
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.2948112487792969
+	  ],
+	  [
+		"Educational Services",
+		0.4694640636444092
+	  ]
+	],
+	"Musical Instruments & Music Stores": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4715299606323242
+	  ],
+	  [
+		"Publishing Industries",
+		0.45497748255729675
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.5683436393737793
+	  ]
+	],
+	"Musicians, Orchestras & Bands": [
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.4943937659263611
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.30741673707962036
+	  ],
+	  [
+		"Broadcasting and Content Providers",
+		0.3114977777004242
+	  ]
+	],
+	"Nanotechnology": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.2175847887992859
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.2149345427751541
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.18868784606456757
+	  ]
+	],
+	"Nephrology Clinic": [
+	  [
+		"Hospitals",
+		0.37214604020118713
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.31867682933807373
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.3538447916507721
+	  ]
+	],
+	"Neurology Clinics": [
+	  [
+		"Hospitals",
+		0.3700929880142212
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.34877994656562805
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.3259347677230835
+	  ]
+	],
+	"Newspapers & Magazines": [
+	  [
+		"Broadcasting and Content Providers",
+		0.4129907190799713
+	  ],
+	  [
+		"Publishing Industries",
+		0.49001413583755493
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.3921598792076111
+	  ]
+	],
+	"Notaries": [
+	  [
+		"Private Households",
+		0.31460464000701904
+	  ],
+	  [
+		"Postal Service",
+		0.3103000819683075
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.2766205668449402
+	  ]
+	],
+	"Nursing & Personal Care": [
+	  [
+		"Personal and Laundry Services",
+		0.6154447197914124
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.6775639057159424
+	  ],
+	  [
+		"Hospitals",
+		0.5553144812583923
+	  ]
+	],
+	"Nutritionists & Weight Loss Specialists": [
+	  [
+		"Food Services and Drinking Places",
+		0.23037020862102509
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.23692390322685242
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.2844546139240265
+	  ]
+	],
+	"Nuts & Seeds": [
+	  [
+		"Crop Production",
+		0.40356191992759705
+	  ],
+	  [
+		"Food Manufacturing",
+		0.4624766707420349
+	  ],
+	  [
+		"Forestry and Logging",
+		0.3607768714427948
+	  ]
+	],
+	"Occupational Health": [
+	  [
+		"Ambulatory Health Care Services",
+		0.40427759289741516
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.4033888280391693
+	  ],
+	  [
+		"Hospitals",
+		0.38644567131996155
+	  ]
+	],
+	"Occupational Therapy": [
+	  [
+		"Social Assistance",
+		0.2892478108406067
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.3221260607242584
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.30156970024108887
+	  ]
+	],
+	"Office & Industrial Cleaning": [
+	  [
+		"Repair and Maintenance",
+		0.5240369439125061
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.5665378570556641
+	  ],
+	  [
+		"Waste Management and Remediation Services",
+		0.5353924036026001
+	  ]
+	],
+	"Office Furniture": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4997524917125702
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.6607549786567688
+	  ],
+	  [
+		"Wood Product Manufacturing",
+		0.38489606976509094
+	  ]
+	],
+	"Office Spaces": [
+	  [
+		"Administrative and Support Services",
+		0.4161311984062195
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4212176501750946
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.42574214935302734
+	  ]
+	],
+	"Office Supplies": [
+	  [
+		"Paper Manufacturing",
+		0.4378829300403595
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.440148264169693
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.42817923426628113
+	  ]
+	],
+	"Oil & Gas - Extraction & Distribution": [
+	  [
+		"Oil and Gas Extraction",
+		0.8443125486373901
+	  ],
+	  [
+		"Petroleum and Coal Products Manufacturing",
+		0.7196671962738037
+	  ],
+	  [
+		"Pipeline Transportation",
+		0.6783960461616516
+	  ]
+	],
+	"Oncology Clinics": [
+	  [
+		"Health and Personal Care Retailers",
+		0.3191956877708435
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.4079609513282776
+	  ],
+	  [
+		"Hospitals",
+		0.40732964873313904
+	  ]
+	],
+	"Online Marketplace": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.40041211247444153
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.4312269389629364
+	  ],
+	  [
+		"Web Search Portals, Libraries, Archives, and Other Information Services",
+		0.3939844071865082
+	  ]
+	],
+	"Ophthalmic & Optical Instruments & Lenses": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.30587199330329895
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.3470917344093323
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.34702473878860474
+	  ]
+	],
+	"Ophthalmologists": [
+	  [
+		"Hospitals",
+		0.2688180208206177
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.2949073016643524
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.2913323640823364
+	  ]
+	],
+	"Optometrists": [
+	  [
+		"Hospitals",
+		0.31190991401672363
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.3540794551372528
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.32657650113105774
+	  ]
+	],
+	"Orthodontists": [
+	  [
+		"Repair and Maintenance",
+		0.24286167323589325
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.23539768159389496
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.23933309316635132
+	  ]
+	],
+	"Orthopedic Clinics": [
+	  [
+		"Nursing and Residential Care Facilities",
+		0.30448558926582336
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.40600287914276123
+	  ],
+	  [
+		"Hospitals",
+		0.3983955383300781
+	  ]
+	],
+	"Other Building Material Retailers": [
+	  [
+		"Construction of Buildings",
+		0.527295708656311
+	  ],
+	  [
+		"Wood Product Manufacturing",
+		0.5470814108848572
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.7091413736343384
+	  ]
+	],
+	"Other Engineering Services": [
+	  [
+		"Specialty Trade Contractors",
+		0.5844218730926514
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.6684921383857727
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.6177296042442322
+	  ]
+	],
+	"Outdoor Advertising Services": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.41480451822280884
+	  ],
+	  [
+		"Accommodation",
+		0.4018944203853607
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.42930513620376587
+	  ]
+	],
+	"Packaging Solutions": [
+	  [
+		"Warehousing and Storage",
+		0.576906681060791
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.5161247849464417
+	  ],
+	  [
+		"Truck Transportation",
+		0.4792637526988983
+	  ]
+	],
+	"Packing & Crating": [
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.5546635985374451
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.639191746711731
+	  ],
+	  [
+		"Paper Manufacturing",
+		0.5393237471580505
+	  ]
+	],
+	"Packing & Sealing Devices & Materials": [
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.350852370262146
+	  ],
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.430379718542099
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.39491671323776245
+	  ]
+	],
+	"Paintball Center": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.3693704903125763
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.2614902853965759
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.26232942938804626
+	  ]
+	],
+	"Painting, Plastering & Wall Covering": [
+	  [
+		"Construction of Buildings",
+		0.4444900453090668
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.46419328451156616
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4676002264022827
+	  ]
+	],
+	"Paints, Coatings, Dyes & Pigments": [
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.4649788439273834
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.4818003177642822
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.51902174949646
+	  ]
+	],
+	"Pallet Supplier": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.4010143578052521
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.4396824240684509
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.4064292311668396
+	  ]
+	],
+	"Paper & Cardboard Products": [
+	  [
+		"Paper Manufacturing",
+		0.7346583604812622
+	  ],
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.5896516442298889
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.5989773273468018
+	  ]
+	],
+	"Parked Domains": [
+	  [
+		"Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
+		0.40881848335266113
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.327734112739563
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.2744007408618927
+	  ]
+	],
+	"Parks": [
+	  [
+		"Food Services and Drinking Places",
+		0.4793182909488678
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5621138215065002
+	  ],
+	  [
+		"Scenic and Sightseeing Transportation",
+		0.5165133476257324
+	  ]
+	],
+	"Party Rentals": [
+	  [
+		"Accommodation",
+		0.5268239974975586
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.46305233240127563
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.3964273929595947
+	  ]
+	],
+	"Party Supplies Stores": [
+	  [
+		"Food Services and Drinking Places",
+		0.4051092565059662
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.427062451839447
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.41709572076797485
+	  ]
+	],
+	"Patent Attorneys": [
+	  [
+		"Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
+		0.2881089448928833
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.3029589354991913
+	  ],
+	  [
+		"Space Research and Technology",
+		0.27745744585990906
+	  ]
+	],
+	"Pathologists": [
+	  [
+		"Ambulatory Health Care Services",
+		0.22839193046092987
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.2516058087348938
+	  ],
+	  [
+		"Hospitals",
+		0.2324412614107132
+	  ]
+	],
+	"Pavers": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.29446566104888916
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.3507208526134491
+	  ],
+	  [
+		"Construction of Buildings",
+		0.2816975712776184
+	  ]
+	],
+	"Pawn Shops & Pawnbrokers": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.4621070325374603
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.4735144078731537
+	  ],
+	  [
+		"Credit Intermediation and Related Activities",
+		0.5234647393226624
+	  ]
+	],
+	"Payment Processing & Point of Sale": [
+	  [
+		"Credit Intermediation and Related Activities",
+		0.42465275526046753
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.41444215178489685
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.4235849380493164
+	  ]
+	],
+	"Pediatric Dentists": [
+	  [
+		"Ambulatory Health Care Services",
+		0.2531479001045227
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.25295963883399963
+	  ],
+	  [
+		"Hospitals",
+		0.24218709766864777
+	  ]
+	],
+	"Pediatrists": [
+	  [
+		"Hospitals",
+		0.30923932790756226
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.2834521234035492
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.32302048802375793
+	  ]
+	],
+	"Periodontists": [
+	  [
+		"Health and Personal Care Retailers",
+		0.2542702853679657
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.21527713537216187
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.2397042065858841
+	  ]
+	],
+	"Personal Injury Attorneys": [
+	  [
+		"Insurance Carriers and Related Activities",
+		0.3156464695930481
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.3251875042915344
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.26497122645378113
+	  ]
+	],
+	"Personal Trainer": [
+	  [
+		"Private Households",
+		0.27686190605163574
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.27894720435142517
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.22592687606811523
+	  ]
+	],
+	"Pest Services & Agricultural Chemicals": [
+	  [
+		"Crop Production",
+		0.5292225480079651
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.4858058989048004
+	  ],
+	  [
+		"Support Activities for Agriculture and Forestry",
+		0.4837214946746826
+	  ]
+	],
+	"Pet Boarding & Sitting": [
+	  [
+		"Personal and Laundry Services",
+		0.3693273663520813
+	  ],
+	  [
+		"Accommodation",
+		0.41571900248527527
+	  ],
+	  [
+		"Air Transportation",
+		0.35250550508499146
+	  ]
+	],
+	"Pet Cemeteries": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.22488398849964142
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.3184427320957184
+	  ],
+	  [
+		"Waste Management and Remediation Services",
+		0.22332295775413513
+	  ]
+	],
+	"Pet Shops": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.37883585691452026
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.4039544463157654
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.40377384424209595
+	  ]
+	],
+	"Pharmaceutical Products": [
+	  [
+		"Food Manufacturing",
+		0.3792342245578766
+	  ],
+	  [
+		"Miscellaneous Manufacturing",
+		0.37137433886528015
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.44888582825660706
+	  ]
+	],
+	"Phone Repair & Services": [
+	  [
+		"Telecommunications",
+		0.39169132709503174
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.5327048301696777
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.3828396201133728
+	  ]
+	],
+	"Photographers & Photographic Studios": [
+	  [
+		"Rental and Leasing Services",
+		0.426609069108963
+	  ],
+	  [
+		"Construction of Buildings",
+		0.432615727186203
+	  ],
+	  [
+		"Publishing Industries",
+		0.42389753460884094
+	  ]
+	],
+	"Picture Framing": [
+	  [
+		"Printing and Related Support Activities",
+		0.3332466781139374
+	  ],
+	  [
+		"Paper Manufacturing",
+		0.2909720838069916
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.3254360258579254
+	  ]
+	],
+	"Pipes, Tubes, Fittings & Valves": [
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.5149916410446167
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.48320987820625305
+	  ],
+	  [
+		"Pipeline Transportation",
+		0.5593662858009338
+	  ]
+	],
+	"Pizza & Italian Restaurants": [
+	  [
+		"Accommodation",
+		0.2658354640007019
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4350012242794037
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3238137662410736
+	  ]
+	],
+	"Plant Nurseries & Stores": [
+	  [
+		"Crop Production",
+		0.5012736320495605
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.5402603149414062
+	  ],
+	  [
+		"Forestry and Logging",
+		0.47453033924102783
+	  ]
+	],
+	"Plastic Surgery Clinics": [
+	  [
+		"Health and Personal Care Retailers",
+		0.2931631803512573
+	  ],
+	  [
+		"Hospitals",
+		0.2985527813434601
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.2955839931964874
+	  ]
+	],
+	"Plastics Products": [
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.4888235628604889
+	  ],
+	  [
+		"Furniture and Related Product Manufacturing",
+		0.49845588207244873
+	  ],
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.722385823726654
+	  ]
+	],
+	"Playground Equipment Supplier": [
+	  [
+		"Specialty Trade Contractors",
+		0.4380355775356293
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4891546964645386
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.4293729066848755
+	  ]
+	],
+	"Playgrounds": [
+	  [
+		"Scenic and Sightseeing Transportation",
+		0.2573580741882324
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.33200564980506897
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2728343904018402
+	  ]
+	],
+	"Plumbing Services": [
+	  [
+		"Repair and Maintenance",
+		0.48814618587493896
+	  ],
+	  [
+		"Utilities",
+		0.4859594404697418
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.5104970335960388
+	  ]
+	],
+	"Plumbing Supply Store": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4112997353076935
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.40190160274505615
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4940187931060791
+	  ]
+	],
+	"Podiatrists": [
+	  [
+		"Health and Personal Care Retailers",
+		0.24346160888671875
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.24747388064861298
+	  ],
+	  [
+		"Hospitals",
+		0.21201904118061066
+	  ]
+	],
+	"Police & Sheriffs": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.5738210082054138
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.3975490629673004
+	  ],
+	  [
+		"National Security and International Affairs",
+		0.4020686447620392
+	  ]
+	],
+	"Political Organizations": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.560924232006073
+	  ],
+	  [
+		"Executive, Legislative, and Other General Government Support",
+		0.4588361084461212
+	  ],
+	  [
+		"Administration of Economic Programs",
+		0.3898027241230011
+	  ]
+	],
+	"Polygraph Services": [
+	  [
+		"Insurance Carriers and Related Activities",
+		0.26941248774528503
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2801041007041931
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.30151280760765076
+	  ]
+	],
+	"Pools & Jacuzzi Services": [
+	  [
+		"Specialty Trade Contractors",
+		0.44861897826194763
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.44076499342918396
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.48151177167892456
+	  ]
+	],
+	"Pools & Jacuzzi Stores": [
+	  [
+		"Accommodation",
+		0.4127020835876465
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.4321458339691162
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4131516218185425
+	  ]
+	],
+	"Postal Service": [
+	  [
+		"Couriers and Messengers",
+		0.6308651566505432
+	  ],
+	  [
+		"Postal Service",
+		0.7351136803627014
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.5056939125061035
+	  ]
+	],
+	"Poultry & Egg Farms": [
+	  [
+		"Crop Production",
+		0.5381714105606079
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.5734956860542297
+	  ],
+	  [
+		"Food Manufacturing",
+		0.4989962875843048
+	  ]
+	],
+	"Preparatory Schools": [
+	  [
+		"Educational Services",
+		0.32259702682495117
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2010170966386795
+	  ],
+	  [
+		"Construction of Buildings",
+		0.2026553899049759
+	  ]
+	],
+	"Preschools & Kindergartens": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2917737066745758
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.2908385396003723
+	  ],
+	  [
+		"Educational Services",
+		0.3813730478286743
+	  ]
+	],
+	"Primary Schools": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.21019341051578522
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.23503461480140686
+	  ],
+	  [
+		"Educational Services",
+		0.3807694613933563
+	  ]
+	],
+	"Process Servers": [
+	  [
+		"Administrative and Support Services",
+		0.3486272692680359
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.35814976692199707
+	  ],
+	  [
+		"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+		0.3838961124420166
+	  ]
+	],
+	"Professional & Management Training": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.5471352934837341
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.48758625984191895
+	  ],
+	  [
+		"Educational Services",
+		0.4788298010826111
+	  ]
+	],
+	"Promotional Merchandising": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.48987317085266113
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.4853765368461609
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.46959587931632996
+	  ]
+	],
+	"Property Management": [
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.4553701877593994
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.44130566716194153
+	  ],
+	  [
+		"Real Estate",
+		0.4597245454788208
+	  ]
+	],
+	"Psychiatrists & Psychiatric Hospitals": [
+	  [
+		"Ambulatory Health Care Services",
+		0.39277541637420654
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.38065940141677856
+	  ],
+	  [
+		"Hospitals",
+		0.4853229522705078
+	  ]
+	],
+	"Psychic": [
+	  [
+		"Administrative and Support Services",
+		0.30661797523498535
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3416047990322113
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.31998497247695923
+	  ]
+	],
+	"Psychologists & Counseling Services": [
+	  [
+		"Personal and Laundry Services",
+		0.35748812556266785
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.37013760209083557
+	  ],
+	  [
+		"Social Assistance",
+		0.35541853308677673
+	  ]
+	],
+	"Public Relations Agencies": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.3734089136123657
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.37305325269699097
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.32242634892463684
+	  ]
+	],
+	"Pubs & Bars": [
+	  [
+		"Food Services and Drinking Places",
+		0.706520140171051
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.6007890701293945
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.6014981269836426
+	  ]
+	],
+	"Pumps & Hydraulics Manufacturing": [
+	  [
+		"Plastics and Rubber Products Manufacturing",
+		0.5049420595169067
+	  ],
+	  [
+		"Petroleum and Coal Products Manufacturing",
+		0.48811811208724976
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.5713369846343994
+	  ]
+	],
+	"RV Parks & Campgrounds": [
+	  [
+		"Accommodation",
+		0.6534919738769531
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.43542781472206116
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.4346395432949066
+	  ]
+	],
+	"Race Tracks & Racing Supplies": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.4763358235359192
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5671396255493164
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.42674967646598816
+	  ]
+	],
+	"Radio & Television Production": [
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.5024216771125793
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.38646969199180603
+	  ],
+	  [
+		"Broadcasting and Content Providers",
+		0.5477356314659119
+	  ]
+	],
+	"Radio Networks & Stations": [
+	  [
+		"Broadcasting and Content Providers",
+		0.6208021640777588
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.3947068154811859
+	  ],
+	  [
+		"Telecommunications",
+		0.36367762088775635
+	  ]
+	],
+	"Radiology Clinic": [
+	  [
+		"Nursing and Residential Care Facilities",
+		0.26735442876815796
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.33327868580818176
+	  ],
+	  [
+		"Hospitals",
+		0.41018322110176086
+	  ]
+	],
+	"Railroad Service Companies": [
+	  [
+		"Rail Transportation",
+		0.6480386853218079
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.5671989321708679
+	  ],
+	  [
+		"Truck Transportation",
+		0.5056535005569458
+	  ]
+	],
+	"Ready Mix Concrete Supplier": [
+	  [
+		"Construction of Buildings",
+		0.47025421261787415
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.4961550831794739
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.45095130801200867
+	  ]
+	],
+	"Real Estate - Agents & Managers": [
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.4322042465209961
+	  ],
+	  [
+		"Real Estate",
+		0.5083908438682556
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.5848876237869263
+	  ]
+	],
+	"Real Estate Associations": [
+	  [
+		"Real Estate",
+		0.6182902455329895
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.509476900100708
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.4911435842514038
+	  ]
+	],
+	"Real Estate Attorneys": [
+	  [
+		"Real Estate",
+		0.4768211543560028
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.38975223898887634
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.38183748722076416
+	  ]
+	],
+	"Real Estate Developers": [
+	  [
+		"Construction of Buildings",
+		0.46703433990478516
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.44644978642463684
+	  ],
+	  [
+		"Real Estate",
+		0.5976982712745667
+	  ]
+	],
+	"Real Estate Investment": [
+	  [
+		"Real Estate",
+		0.6494194865226746
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.4726826250553131
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.5583036541938782
+	  ]
+	],
+	"Real Estate Rental": [
+	  [
+		"Rental and Leasing Services",
+		0.5514277219772339
+	  ],
+	  [
+		"Accommodation",
+		0.476331889629364
+	  ],
+	  [
+		"Real Estate",
+		0.5384190678596497
+	  ]
+	],
+	"Real Estate Valuations & Home Inspection": [
+	  [
+		"Real Estate",
+		0.49492356181144714
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.4330645501613617
+	  ],
+	  [
+		"Construction of Buildings",
+		0.42725127935409546
+	  ]
+	],
+	"Recording Studio": [
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.39814266562461853
+	  ],
+	  [
+		"Publishing Industries",
+		0.33467790484428406
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.35043248534202576
+	  ]
+	],
+	"Recruitment & Job Listing Services": [
+	  [
+		"Administrative and Support Services",
+		0.46060460805892944
+	  ],
+	  [
+		"Web Search Portals, Libraries, Archives, and Other Information Services",
+		0.4249168634414673
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.43768495321273804
+	  ]
+	],
+	"Refrigeration Equipment & Supplies": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.5278231501579285
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.6002458930015564
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.607277512550354
+	  ]
+	],
+	"Regenerative Clinics": [
+	  [
+		"Hospitals",
+		0.3444330394268036
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.26919254660606384
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.35564956068992615
+	  ]
+	],
+	"Rehab & Addiction - Centers & Therapists": [
+	  [
+		"Hospitals",
+		0.44529688358306885
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.46041980385780334
+	  ],
+	  [
+		"Social Assistance",
+		0.41375377774238586
+	  ]
+	],
+	"Religious Goods": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.34449970722198486
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.37538114190101624
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.39895448088645935
+	  ]
+	],
+	"Religious Schools": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.24849122762680054
+	  ],
+	  [
+		"Educational Services",
+		0.39657583832740784
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.31181129813194275
+	  ]
+	],
+	"Renewable energy companies": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.40751904249191284
+	  ],
+	  [
+		"Pipeline Transportation",
+		0.328593909740448
+	  ],
+	  [
+		"Utilities",
+		0.39893314242362976
+	  ]
+	],
+	"Research Institutes": [
+	  [
+		"Space Research and Technology",
+		0.4941604435443878
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.36523959040641785
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.377541184425354
+	  ]
+	],
+	"Resorts": [
+	  [
+		"Food Services and Drinking Places",
+		0.49732378125190735
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5055996179580688
+	  ],
+	  [
+		"Accommodation",
+		0.5374366044998169
+	  ]
+	],
+	"Restaurant Equipment": [
+	  [
+		"Food and Beverage Retailers",
+		0.568671464920044
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.6102485656738281
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.4670785367488861
+	  ]
+	],
+	"Restaurants": [
+	  [
+		"Food Services and Drinking Places",
+		0.782993495464325
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.6330251097679138
+	  ],
+	  [
+		"Accommodation",
+		0.5599525570869446
+	  ]
+	],
+	"Retirement Planning": [
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.3559678792953491
+	  ],
+	  [
+		"Management of Companies and Enterprises",
+		0.3395496904850006
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.3769121468067169
+	  ]
+	],
+	"Ridesharing": [
+	  [
+		"Transit and Ground Passenger Transportation",
+		0.39561590552330017
+	  ],
+	  [
+		"Rail Transportation",
+		0.3698812425136566
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.36917880177497864
+	  ]
+	],
+	"Roofing Contractors": [
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5018705129623413
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.5362905263900757
+	  ],
+	  [
+		"Construction of Buildings",
+		0.5627782344818115
+	  ]
+	],
+	"Safety Training": [
+	  [
+		"Support Activities for Transportation",
+		0.3819526433944702
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.4092867374420166
+	  ],
+	  [
+		"Educational Services",
+		0.4694397449493408
+	  ]
+	],
+	"Sailing Club": [
+	  [
+		"Water Transportation",
+		0.27172911167144775
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.2811076045036316
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.25847938656806946
+	  ]
+	],
+	"Sales Agencies": [
+	  [
+		"Administrative and Support Services",
+		0.3621470034122467
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.3215330243110657
+	  ],
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.443643718957901
+	  ]
+	],
+	"Salvage Merchandise & Thrift Stores": [
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.5764034986495972
+	  ],
+	  [
+		"Merchant Wholesalers, Nondurable Goods",
+		0.4758441150188446
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.48758983612060547
+	  ]
+	],
+	"Scale Solutions": [
+	  [
+		"Transportation Equipment Manufacturing",
+		0.29702430963516235
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.403120756149292
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.28991004824638367
+	  ]
+	],
+	"Scout Camps": [
+	  [
+		"Accommodation",
+		0.35603493452072144
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2727883458137512
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.28895506262779236
+	  ]
+	],
+	"Scrap Metals": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.5492990016937256
+	  ],
+	  [
+		"Chemical Manufacturing",
+		0.49758782982826233
+	  ],
+	  [
+		"Primary Metal Manufacturing",
+		0.6692121028900146
+	  ]
+	],
+	"Search Engine Optimization": [
+	  [
+		"Web Search Portals, Libraries, Archives, and Other Information Services",
+		0.42588651180267334
+	  ],
+	  [
+		"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+		0.2768903970718384
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.21951591968536377
+	  ]
+	],
+	"Security Guards & Patrol Services": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.46517622470855713
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.396261990070343
+	  ],
+	  [
+		"National Security and International Affairs",
+		0.37741512060165405
+	  ]
+	],
+	"Semiconductors": [
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.5898962020874023
+	  ],
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.4599210321903229
+	  ],
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.5144871473312378
+	  ]
+	],
+	"Senior Care and Assisted Living Facilities": [
+	  [
+		"Accommodation",
+		0.4375428259372711
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.5822958946228027
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4711707532405853
+	  ]
+	],
+	"Sex Shops": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.41355186700820923
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.3905518054962158
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.3851001560688019
+	  ]
+	],
+	"Shipping Couriers": [
+	  [
+		"Couriers and Messengers",
+		0.7541868686676025
+	  ],
+	  [
+		"Air Transportation",
+		0.574525773525238
+	  ],
+	  [
+		"Postal Service",
+		0.6102078557014465
+	  ]
+	],
+	"Shoe Shining & Repair": [
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.44532740116119385
+	  ],
+	  [
+		"Leather and Allied Product Manufacturing",
+		0.4471993148326874
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.4924548268318176
+	  ]
+	],
+	"Shoes & Other Footwear Stores": [
+	  [
+		"Health and Personal Care Retailers",
+		0.4367445409297943
+	  ],
+	  [
+		"General Merchandise Retailers",
+		0.4762935936450958
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.5505796670913696
+	  ]
+	],
+	"Signs & Commercial Screens": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4277535080909729
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.4219200015068054
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3979267179965973
+	  ]
+	],
+	"Skydiving Center": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.3384665548801422
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.2948169708251953
+	  ],
+	  [
+		"Air Transportation",
+		0.3383429944515228
+	  ]
+	],
+	"Sleep Clinics": [
+	  [
+		"Ambulatory Health Care Services",
+		0.30957868695259094
+	  ],
+	  [
+		"Hospitals",
+		0.3149468004703522
+	  ],
+	  [
+		"Accommodation",
+		0.3001289665699005
+	  ]
+	],
+	"Snack Foods": [
+	  [
+		"Food Services and Drinking Places",
+		0.38465845584869385
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.3828333020210266
+	  ],
+	  [
+		"Food Manufacturing",
+		0.4054235816001892
+	  ]
+	],
+	"Soccer Club": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.21594884991645813
+	  ],
+	  [
+		"Administration of Economic Programs",
+		0.2624979019165039
+	  ],
+	  [
+		"Administration of Environmental Quality Programs",
+		0.21724273264408112
+	  ]
+	],
+	"Social Media Agencies": [
+	  [
+		"Broadcasting and Content Providers",
+		0.36653319001197815
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.3329947590827942
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.3046949505805969
+	  ]
+	],
+	"Social Services & NGOs": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.46534696221351624
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.4466014802455902
+	  ],
+	  [
+		"Social Assistance",
+		0.5365204215049744
+	  ]
+	],
+	"Software Development Services": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.3712775409221649
+	  ],
+	  [
+		"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+		0.43115806579589844
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.3970912992954254
+	  ]
+	],
+	"Solar Energy Company": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.3935859799385071
+	  ],
+	  [
+		"Utilities",
+		0.3495582044124603
+	  ],
+	  [
+		"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+		0.33567166328430176
+	  ]
+	],
+	"Solar Energy Services": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.4163948595523834
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.36798200011253357
+	  ],
+	  [
+		"Utilities",
+		0.36288827657699585
+	  ]
+	],
+	"Spa & Wellness Centers": [
+	  [
+		"Personal and Laundry Services",
+		0.4018091559410095
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.3821830153465271
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4113817811012268
+	  ]
+	],
+	"Special Needs Education": [
+	  [
+		"Social Assistance",
+		0.38169169425964355
+	  ],
+	  [
+		"Educational Services",
+		0.5046579837799072
+	  ],
+	  [
+		"Nursing and Residential Care Facilities",
+		0.35073184967041016
+	  ]
+	],
+	"Spices, Condiments & Sauces": [
+	  [
+		"Food and Beverage Retailers",
+		0.41303107142448425
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.37504351139068604
+	  ],
+	  [
+		"Food Manufacturing",
+		0.4342910945415497
+	  ]
+	],
+	"Sporting & Recreational Camps": [
+	  [
+		"Accommodation",
+		0.46303051710128784
+	  ],
+	  [
+		"Scenic and Sightseeing Transportation",
+		0.37483909726142883
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.49601122736930847
+	  ]
+	],
+	"Sporting Goods Store": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.441756010055542
+	  ],
+	  [
+		"General Merchandise Retailers",
+		0.49637433886528015
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.619185745716095
+	  ]
+	],
+	"Sports & Leisure - Clubs, Fields & Pitches": [
+	  [
+		"Accommodation",
+		0.4448896646499634
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.42562323808670044
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.6251806020736694
+	  ]
+	],
+	"Sports Associations": [
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.425411194562912
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.4340115487575531
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.37162458896636963
+	  ]
+	],
+	"Sports Medicine & Physical Therapy": [
+	  [
+		"Ambulatory Health Care Services",
+		0.25386008620262146
+	  ],
+	  [
+		"Hospitals",
+		0.2594280242919922
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.24671483039855957
+	  ]
+	],
+	"Stained Glass Stores": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.45740729570388794
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.4645840525627136
+	  ],
+	  [
+		"Wood Product Manufacturing",
+		0.4320656657218933
+	  ]
+	],
+	"Stainless Steel Products": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.5221978425979614
+	  ],
+	  [
+		"Primary Metal Manufacturing",
+		0.5195964574813843
+	  ],
+	  [
+		"Miscellaneous Manufacturing",
+		0.450793594121933
+	  ]
+	],
+	"Steakhouse Restaurants": [
+	  [
+		"Accommodation",
+		0.29043903946876526
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4230878949165344
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.2900812029838562
+	  ]
+	],
+	"Stenographers & Transcription Services": [
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.2811333239078522
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.3015396296977997
+	  ],
+	  [
+		"Publishing Industries",
+		0.3141936659812927
+	  ]
+	],
+	"Subscription Box Service": [
+	  [
+		"Postal Service",
+		0.3763146996498108
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.3583443760871887
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.32590892910957336
+	  ]
+	],
+	"Surveying Services": [
+	  [
+		"Support Activities for Mining",
+		0.4442906379699707
+	  ],
+	  [
+		"Real Estate",
+		0.44200196862220764
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5032849311828613
+	  ]
+	],
+	"Swimming school": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.2053503394126892
+	  ],
+	  [
+		"Educational Services",
+		0.37659183144569397
+	  ],
+	  [
+		"Water Transportation",
+		0.2447831630706787
+	  ]
+	],
+	"Swimwear": [
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.33428066968917847
+	  ],
+	  [
+		"Apparel Manufacturing",
+		0.39688819646835327
+	  ],
+	  [
+		"Textile Mills",
+		0.33264225721359253
+	  ]
+	],
+	"Tanning Salons": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.3202495276927948
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.32000765204429626
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.32631194591522217
+	  ]
+	],
+	"Tattoo & Piercing Parlors": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.29646146297454834
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.2939711809158325
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.2909241020679474
+	  ]
+	],
+	"Tax Attorney": [
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.26635104417800903
+	  ],
+	  [
+		"Funds, Trusts, and Other Financial Vehicles",
+		0.2601902484893799
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.2594926655292511
+	  ]
+	],
+	"Tax Preparation": [
+	  [
+		"Personal and Laundry Services",
+		0.2891314625740051
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.3482523560523987
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.287908136844635
+	  ]
+	],
+	"Taxicabs": [
+	  [
+		"Couriers and Messengers",
+		0.4004264175891876
+	  ],
+	  [
+		"Air Transportation",
+		0.404995858669281
+	  ],
+	  [
+		"Transit and Ground Passenger Transportation",
+		0.4444873034954071
+	  ]
+	],
+	"Tech Companies": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.42805784940719604
+	  ],
+	  [
+		"Computer and Electronic Product Manufacturing",
+		0.4403442144393921
+	  ],
+	  [
+		"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+		0.44218820333480835
+	  ]
+	],
+	"Telecommunications": [
+	  [
+		"Telecommunications",
+		0.7660682797431946
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.49829134345054626
+	  ],
+	  [
+		"Broadcasting and Content Providers",
+		0.6045169830322266
+	  ]
+	],
+	"Telemarketing": [
+	  [
+		"Broadcasting and Content Providers",
+		0.37340259552001953
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.4044010639190674
+	  ],
+	  [
+		"Telecommunications",
+		0.4696398675441742
+	  ]
+	],
+	"Television Broadcasting": [
+	  [
+		"Broadcasting and Content Providers",
+		0.6730270385742188
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.527050793170929
+	  ],
+	  [
+		"Telecommunications",
+		0.42653074860572815
+	  ]
+	],
+	"Tennis Club": [
+	  [
+		"Accommodation",
+		0.21789509057998657
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.2859061360359192
+	  ],
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.21083012223243713
+	  ]
+	],
+	"Tent and Awning Shops": [
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.52374267578125
+	  ],
+	  [
+		"Accommodation",
+		0.5300014615058899
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4333150386810303
+	  ]
+	],
+	"Thai Restaurants": [
+	  [
+		"Food and Beverage Retailers",
+		0.22622519731521606
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.38780468702316284
+	  ],
+	  [
+		"Accommodation",
+		0.23023468255996704
+	  ]
+	],
+	"Theatres & Theatrical Services": [
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.5303687453269958
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.5320855975151062
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.6452081203460693
+	  ]
+	],
+	"Tile Store": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.36979907751083374
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.41073858737945557
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.34472939372062683
+	  ]
+	],
+	"Timber & Wood Products": [
+	  [
+		"Wood Product Manufacturing",
+		0.7082834243774414
+	  ],
+	  [
+		"Support Activities for Agriculture and Forestry",
+		0.6496617197990417
+	  ],
+	  [
+		"Forestry and Logging",
+		0.736093282699585
+	  ]
+	],
+	"Title Abstract & Settlement Offices": [
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.3855973184108734
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.3797110617160797
+	  ],
+	  [
+		"Real Estate",
+		0.37389370799064636
+	  ]
+	],
+	"Tobacco": [
+	  [
+		"Merchant Wholesalers, Nondurable Goods",
+		0.5479937195777893
+	  ],
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.6824554204940796
+	  ],
+	  [
+		"Food Manufacturing",
+		0.5585761666297913
+	  ]
+	],
+	"Tour Operators": [
+	  [
+		"Administrative and Support Services",
+		0.47673431038856506
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.3959570825099945
+	  ],
+	  [
+		"Accommodation",
+		0.37611567974090576
+	  ]
+	],
+	"Towing Wrecking & Roadside Assistance": [
+	  [
+		"Support Activities for Transportation",
+		0.4945366680622101
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.45633041858673096
+	  ],
+	  [
+		"Truck Transportation",
+		0.5307922959327698
+	  ]
+	],
+	"Toys & Games Stores": [
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.5557794570922852
+	  ],
+	  [
+		"General Merchandise Retailers",
+		0.4888945519924164
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.4415797293186188
+	  ]
+	],
+	"Translation Services": [
+	  [
+		"Couriers and Messengers",
+		0.3430454134941101
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.3463124632835388
+	  ],
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.3122970461845398
+	  ]
+	],
+	"Transportation & Shipping": [
+	  [
+		"Support Activities for Transportation",
+		0.6811815500259399
+	  ],
+	  [
+		"Truck Transportation",
+		0.7358778715133667
+	  ],
+	  [
+		"Warehousing and Storage",
+		0.7059999108314514
+	  ]
+	],
+	"Transportation & Shipping Associations": [
+	  [
+		"Water Transportation",
+		0.520538330078125
+	  ],
+	  [
+		"Truck Transportation",
+		0.5609968900680542
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.5787482857704163
+	  ]
+	],
+	"Transportation Engineering Services": [
+	  [
+		"Transit and Ground Passenger Transportation",
+		0.5127426385879517
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.5248345732688904
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.5563919544219971
+	  ]
+	],
+	"Travel Agencies": [
+	  [
+		"Air Transportation",
+		0.4567812383174896
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.5410196781158447
+	  ],
+	  [
+		"Accommodation",
+		0.4500621557235718
+	  ]
+	],
+	"Travel Associations": [
+	  [
+		"Administrative and Support Services",
+		0.5608751177787781
+	  ],
+	  [
+		"Accommodation",
+		0.5300934314727783
+	  ],
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.5195778608322144
+	  ]
+	],
+	"Tree Farms": [
+	  [
+		"Crop Production",
+		0.5750806927680969
+	  ],
+	  [
+		"Support Activities for Agriculture and Forestry",
+		0.5316948294639587
+	  ],
+	  [
+		"Forestry and Logging",
+		0.647581934928894
+	  ]
+	],
+	"Tree Services": [
+	  [
+		"Personal and Laundry Services",
+		0.47592851519584656
+	  ],
+	  [
+		"Support Activities for Agriculture and Forestry",
+		0.6078296303749084
+	  ],
+	  [
+		"Forestry and Logging",
+		0.5903060436248779
+	  ]
+	],
+	"Trucking and Logistics": [
+	  [
+		"Warehousing and Storage",
+		0.7550768852233887
+	  ],
+	  [
+		"Truck Transportation",
+		0.782058596611023
+	  ],
+	  [
+		"Support Activities for Transportation",
+		0.6625083088874817
+	  ]
+	],
+	"Underwear & Lingerie": [
+	  [
+		"Textile Product Mills",
+		0.3851288855075836
+	  ],
+	  [
+		"Apparel Manufacturing",
+		0.4537767171859741
+	  ],
+	  [
+		"Textile Mills",
+		0.40788766741752625
+	  ]
+	],
+	"University & College Alumni Associations": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.3609214425086975
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.3510419726371765
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.4034622013568878
+	  ]
+	],
+	"Urology Clinics": [
+	  [
+		"Hospitals",
+		0.38880982995033264
+	  ],
+	  [
+		"Ambulatory Health Care Services",
+		0.32520970702171326
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3501638174057007
+	  ]
+	],
+	"Used Auto Parts Store": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.6319531202316284
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.5516475439071655
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.5278074145317078
+	  ]
+	],
+	"Utility companies": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.4591864347457886
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.4566476047039032
+	  ],
+	  [
+		"Utilities",
+		0.6431502103805542
+	  ]
+	],
+	"Valet Services & Parking Lots": [
+	  [
+		"Food Services and Drinking Places",
+		0.4787544012069702
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.4572525918483734
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.4601173400878906
+	  ]
+	],
+	"Vaporizer Stores": [
+	  [
+		"Health and Personal Care Retailers",
+		0.40817102789878845
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.4236765205860138
+	  ],
+	  [
+		"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+		0.42585253715515137
+	  ]
+	],
+	"Vegetarian Restaurants": [
+	  [
+		"Food and Beverage Retailers",
+		0.356901079416275
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.4313410222530365
+	  ],
+	  [
+		"Food Manufacturing",
+		0.31320804357528687
+	  ]
+	],
+	"Vending Machines": [
+	  [
+		"Food Services and Drinking Places",
+		0.3845023214817047
+	  ],
+	  [
+		"Couriers and Messengers",
+		0.3899365961551666
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.4793317914009094
+	  ]
+	],
+	"Veterinarians & Animal Hospitals": [
+	  [
+		"Hospitals",
+		0.4629962742328644
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.37652337551116943
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.363496869802475
+	  ]
+	],
+	"Veterinary Associations": [
+	  [
+		"Administration of Environmental Quality Programs",
+		0.3703060448169708
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.4378695785999298
+	  ],
+	  [
+		"Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+		0.4253348708152771
+	  ]
+	],
+	"Video Games - Development & Publishing": [
+	  [
+		"Printing and Related Support Activities",
+		0.3962383270263672
+	  ],
+	  [
+		"Publishing Industries",
+		0.5397692322731018
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.4165767431259155
+	  ]
+	],
+	"Video and Audio Production": [
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.48242923617362976
+	  ],
+	  [
+		"Motion Picture and Sound Recording Industries",
+		0.6255311965942383
+	  ],
+	  [
+		"Broadcasting and Content Providers",
+		0.490711510181427
+	  ]
+	],
+	"Vintage Clothing Store": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.36491602659225464
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.42368245124816895
+	  ],
+	  [
+		"Apparel Manufacturing",
+		0.36806613206863403
+	  ]
+	],
+	"Vitamins & Supplements": [
+	  [
+		"Health and Personal Care Retailers",
+		0.3838116526603699
+	  ],
+	  [
+		"Food Manufacturing",
+		0.3447099030017853
+	  ],
+	  [
+		"Food and Beverage Retailers",
+		0.31543123722076416
+	  ]
+	],
+	"Warehousing & Storage": [
+	  [
+		"Warehousing and Storage",
+		0.8265801668167114
+	  ],
+	  [
+		"Truck Transportation",
+		0.5832949280738831
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.5742347836494446
+	  ]
+	],
+	"Watch Repair Shop": [
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.3014678955078125
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.4420557916164398
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.31039103865623474
+	  ]
+	],
+	"Watches & Jewelry Stores": [
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.4947587549686432
+	  ],
+	  [
+		"Merchant Wholesalers, Durable Goods",
+		0.3996736407279968
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.4008254110813141
+	  ]
+	],
+	"Water Supply & Water Treatment": [
+	  [
+		"Administration of Environmental Quality Programs",
+		0.4462423026561737
+	  ],
+	  [
+		"Waste Management and Remediation Services",
+		0.5398926138877869
+	  ],
+	  [
+		"Utilities",
+		0.4923040270805359
+	  ]
+	],
+	"Waterproofing Services": [
+	  [
+		"Construction of Buildings",
+		0.5173903107643127
+	  ],
+	  [
+		"Specialty Trade Contractors",
+		0.4586343467235565
+	  ],
+	  [
+		"Heavy and Civil Engineering Construction",
+		0.49703872203826904
+	  ]
+	],
+	"Web Development Agencies": [
+	  [
+		"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+		0.43827998638153076
+	  ],
+	  [
+		"Administrative and Support Services",
+		0.36761346459388733
+	  ],
+	  [
+		"Web Search Portals, Libraries, Archives, and Other Information Services",
+		0.4137021601200104
+	  ]
+	],
+	"Wedding Photographers": [
+	  [
+		"Professional, Scientific, and Technical Services",
+		0.23226431012153625
+	  ],
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.22203880548477173
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.27377933263778687
+	  ]
+	],
+	"Wedding Venues": [
+	  [
+		"Amusement, Gambling, and Recreation Industries",
+		0.3767547309398651
+	  ],
+	  [
+		"Accommodation",
+		0.37537702918052673
+	  ],
+	  [
+		"Food Services and Drinking Places",
+		0.40681248903274536
+	  ]
+	],
+	"Welding Services": [
+	  [
+		"Fabricated Metal Product Manufacturing",
+		0.555467963218689
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.48708200454711914
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.49095720052719116
+	  ]
+	],
+	"Wig Shops": [
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.32497066259384155
+	  ],
+	  [
+		"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+		0.3381807804107666
+	  ],
+	  [
+		"Health and Personal Care Retailers",
+		0.3309878706932068
+	  ]
+	],
+	"Wind Energy Equipment & Services": [
+	  [
+		"Electrical Equipment, Appliance, and Component Manufacturing",
+		0.48570626974105835
+	  ],
+	  [
+		"Machinery Manufacturing",
+		0.42496049404144287
+	  ],
+	  [
+		"Rental and Leasing Services",
+		0.4319346249103546
+	  ]
+	],
+	"Window Cleaning Service": [
+	  [
+		"Wholesale Trade Agents and Brokers",
+		0.3499903678894043
+	  ],
+	  [
+		"Repair and Maintenance",
+		0.4007764160633087
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.3809787333011627
+	  ]
+	],
+	"Windows & Door Shops": [
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.424835741519928
+	  ],
+	  [
+		"Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+		0.44652679562568665
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.48167896270751953
+	  ]
+	],
+	"Wine Shops & Wineries": [
+	  [
+		"Food and Beverage Retailers",
+		0.4940059185028076
+	  ],
+	  [
+		"Beverage and Tobacco Product Manufacturing",
+		0.5736769437789917
+	  ],
+	  [
+		"Motor Vehicle and Parts Dealers",
+		0.4981231391429901
+	  ]
+	],
+	"Wood Building Material Stores": [
+	  [
+		"Construction of Buildings",
+		0.5498775839805603
+	  ],
+	  [
+		"Wood Product Manufacturing",
+		0.69118332862854
+	  ],
+	  [
+		"Building Material and Garden Equipment and Supplies Dealers",
+		0.6668328642845154
+	  ]
+	],
+	"Work Clothing & Protection Equipment": [
+	  [
+		"Apparel Manufacturing",
+		0.4446973502635956
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.41049814224243164
+	  ],
+	  [
+		"Textile Mills",
+		0.4258105456829071
+	  ]
+	],
+	"Writers & Copywriters": [
+	  [
+		"Publishing Industries",
+		0.42146220803260803
+	  ],
+	  [
+		"Printing and Related Support Activities",
+		0.31743553280830383
+	  ],
+	  [
+		"Performing Arts, Spectator Sports, and Related Industries",
+		0.2935996353626251
+	  ]
+	],
+	"YMCA Camps": [
+	  [
+		"Justice, Public Order, and Safety Activities",
+		0.28907400369644165
+	  ],
+	  [
+		"Accommodation",
+		0.37418001890182495
+	  ],
+	  [
+		"Administration of Housing Programs, Urban Planning, and Community Development",
+		0.3378932476043701
+	  ]
+	],
+	"Yoga Studios": [
+	  [
+		"Educational Services",
+		0.1970558911561966
+	  ],
+	  [
+		"Accommodation",
+		0.2518613040447235
+	  ],
+	  [
+		"Personal and Laundry Services",
+		0.18885783851146698
+	  ]
+	],
+	"Zoo": [
+	  [
+		"Museums, Historical Sites, and Similar Institutions",
+		0.3939763009548187
+	  ],
+	  [
+		"Animal Production and Aquaculture",
+		0.3428463339805603
+	  ],
+	  [
+		"Administration of Environmental Quality Programs",
+		0.2590620815753937
+	  ]
+	]
+}
